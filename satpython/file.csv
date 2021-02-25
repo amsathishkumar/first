@@ -1,0 +1,504 @@
+Location,hostname,hostIP,interface,InterfaceIP,,Location,hostname,hostIP,interface,InterfaceIP,,Region,
+STOCKHOLM, sto-t1a-stkx-hrt01, 192.168.194.155, GE_1/8/5, 172.31.237.13,10, STOCKHOLM, sto-t1a-rt04, 192.168.254.63, GigabitEthernet0/0/1, 172.31.237.14,10,  europe,  
+SEOUL2, seo2-t1a-OO7x-hrt01, 192.168.194.76, GE_5/1/10, 172.31.205.41,65535, SEOUL, seo-t1a-aicna-acn-rt01, 192.168.201.12, GigabitEthernet0/0/0, 172.31.205.42,65535,  apac,3
+CHICAGO, ch-t1a-ct8x-hpe01, 192.168.200.17, STM4_3/1/14, 172.23.250.37,1000, CHICAGO, ch-t1a-rt03, 192.168.248.21, POS3/1/0, 172.23.250.38,1000,  americas,  
+FRANKFURT3, fft3-t1a-fr1x-hrt01, 192.168.194.172, TE_5/1/13, 172.31.207.21,500, FRANKFURT2, fft2-t1a-feqx-hrt01, 192.168.194.195, TE_5/1/13, 172.31.207.22,500,  europe,0.67
+LOS ANGELES, la-t1a-27gx-hpe01, 192.168.194.150, TE_1/1/14, 172.31.190.5,2900, DALLAS, da-t1a-d0vx-hpe01, 192.168.247.23, TE_4/1/1, 172.31.190.6,2900,  americas,33.6
+LONDON, ln-t1a-l78x-hcr02, 192.168.194.138, TE_1/1/13, 172.31.247.121,65535, LONDON, ln-t1a-l78x-hpe01, 192.168.246.170, TE_10/1/14, 172.31.247.122,65535,  europe,  
+VIETNAM, vi-t1a-asgna-acn-rt01, 192.168.201.111, GigabitEthernet0/0/0, 172.31.82.146,65535, VIETNAM, vi-t1a-rt01, 192.168.251.108, GigabitEthernet1/0/1, 172.31.82.145,65535,  apac,  
+FRANKFURT, fft-t1a-fnm-hcr01, 192.168.247.12, TE_2/1/14, 172.23.182.66,15, FRANKFURT, fft-t1a-hpe02, 192.168.254.40, TE_5/1/13, 172.23.182.65,15,  europe,  
+HONGKONG, hk-t1a-h99x-hpe01, 192.168.194.50, TE_1/1/13, 172.31.248.241,15, HONGKONG, hk-t1a-cr02, 192.168.253.7, TenGigabitEthernet2/1, 172.31.248.242,15,  apac,  
+HIGH BRIDGE, hbg-t1a-hb9x-hrt01, 192.168.194.13, TE_3/2/14, 172.28.141.218,10, HIGH BRIDGE, hbg-t1a-hb9x-hrt02, 192.168.201.197, TE_2/2/1, 172.28.141.217,10,  europe,  
+LUANDA, lua-t1a-alada-acn-rt01, 192.168.194.241, GigabitEthernet0/1/0, 172.26.11.253,10, LUANDA, lua-t1a-alada-acn-rt02, 192.168.194.242, GigabitEthernet0/1/0, 172.26.11.254,10,  africa,  
+CHICAGO, ch-t1a-rt01, 192.168.184.33, GigabitEthernet4/0/1, 192.168.38.117,6, CHICAGO, ch-t1a-rt03, 192.168.248.21, GigabitEthernet3/0/1, 192.168.38.118,1,  americas,  
+AMSTERDAM, am-t1a-a99x-hrt01, 192.168.194.28, TE_2/2/2, 172.31.84.126,3500, COPENHAGEN, cop-t1a-acphb-hrt01, 192.168.201.99, TE_1/2/13, 172.31.84.125,3500,  europe,12.9
+NEW YORK, ny-t1a-n99x-hcr01, 192.168.194.136, GE_1/1/1, 172.31.251.249,15, NEW YORK, ny-t1a-rt01, 192.168.248.2, GigabitEthernet4/1/0, 172.31.251.250,15,  americas,  
+ZURICH, zu-t1a-rt01, 192.168.246.40, GigabitEthernet3/0/1, 192.168.39.85,10, ZURICH, zu-t1a-rt02, 192.168.246.41, GigabitEthernet3/0/1, 192.168.39.86,10,  europe,  
+TOKYO, tk-t1a-t0vx-hcr02, 192.168.201.191, GE_1/1/2, 172.28.139.70,10, TOKYO, tk-t1a-t0vx-hcr01, 192.168.253.174, GE_5/1/3, 172.28.139.69,10,  apac,  
+Bali, bal-t1a-eahx-acn-rt01, 192.168.194.214, GigabitEthernet0/0/1, 172.31.207.201,10, Bali, bal-t1a-eahx-acn-rt02, 192.168.194.216, GigabitEthernet0/0/1, 172.31.207.202,10,  apac,  
+NAIROBI, nai-t1a-rt01, 192.168.246.160, GigabitEthernet4/0/2, 172.31.247.50,5000, NAIROBI2, nai2-t1a-hrt01, 192.168.246.20, GE_1/7/4, 172.31.247.49,5000,  africa,0.86
+SINGAPORE, si-t1a-svwx-hcr02, 192.168.194.131, TE_5/2/13, 172.31.239.69,10, SINGAPORE, si-t1a-hcr01, 192.168.250.14, TE_4/1/4, 172.31.239.70,10,  apac,  
+DOHA, doh-t1a-rt01, 192.168.252.240, POS0/1/0, 172.28.138.102,4000, BAHRAIN, bah-t1a-hrt01, 192.168.253.180, STM1_1/12/2, 172.28.138.101,4000,  middleast,5.9
+PARIS, par-t1a-p96x-hcr01, 192.168.194.137, TE_2/2/1, 172.31.24.242,1000, LONDON, ln-t1a-hcr01, 192.168.246.13, TE_4/1/3, 172.31.24.241,1000,  europe,7.91
+LONDON2, ln2-t1a-ldnx-hrt01, 192.168.246.186, GE_5/1/9, 172.29.217.229,5000, DUBLIN, dub-t1a-rt02, 192.168.246.81, GigabitEthernet3/0/3, 172.29.217.230,5000,  europe,12
+MANILA, mla-t1a-amnla-acn-rt01, 192.168.194.247, GigabitEthernet0/0/0, 172.31.163.246,65535, MANILA2, mla2-t1a-gx0x-hrt01, 192.168.194.93, GE_1/1/7, 172.31.163.245,65535,  apac,2.51
+SINGAPORE, si-t1a-svwx-hcr02, 192.168.194.131, GE_1/1/3, 172.31.25.21,10, SINGAPORE, si-t1a-rt01, 192.168.250.2, GigabitEthernet4/1/0, 172.31.25.22,10,  apac,  
+MIAMI, mia-t1a-mlnx-hpe02, 192.168.194.148, GE_1/1/1, 172.31.236.73,10, MIAMI, mia-t1a-rt01, 192.168.248.22, GigabitEthernet2/1/3, 172.31.236.74,10,  americas,  
+BANGKOK, bnk-t1a-wgzx-acn-rt01, 192.168.194.193, GigabitEthernet0/2/1, 172.31.206.166,65535, BANGKOK, bnk-t1a-rt01, 192.168.250.32, GigabitEthernet0/0/4, 172.31.206.165,65535,  apac,  
+FRANKFURT, fft-t1a-fnmx-hcr02, 192.168.194.139, GE_5/1/4, 172.31.26.118,15, FRANKFURT, fft-t1a-rt07-ASBR, 192.168.254.38, GigabitEthernet1/0/0, 172.31.26.117,15,  europe,  
+HONGKONG, hk-t1a-rt02-PE, 192.168.189.2, GigabitEthernet4/0/3, 172.31.25.74,15, HONGKONG, hk-t1a-rt08-PE, 192.168.253.16, GigabitEthernet2/0/0, 172.31.25.73,15,  apac,  
+MADRID, ma-t1a-wv6x-hrt01, 192.168.194.22, GE_1/1/12, 172.23.102.41,15, MADRID, ma-t1a-rt01, 192.168.246.33, GigabitEthernet2/1/1, 172.23.102.42,15,  europe,  
+ASHBURN, ash-t1a-ae6x-hrt03, 192.168.201.187, GE_1/1/8, 172.28.146.222,15, ASHBURN, ash-t1a-ae6x-rt04, 192.168.201.188, GigabitEthernet0/0/2, 172.28.146.221,15,  americas,  
+LOS ANGELES, la-t1a-27gx-hpe01, 192.168.194.150, TE_1/1/13, 172.31.36.242,15, LOS ANGELES, la-t1a-cr01, 192.168.248.28, TenGigabitEthernet2/2, 172.31.36.241,15,  americas,  
+KUALALAMPUR, kl-t1a-kvdx-rt03, 192.168.201.138, GigabitEthernet1/0/0, 172.28.129.186,65535, KUALALAMPUR, kl-t1a-kvdx-hrt01, 192.168.201.139, GE_2/1/9, 172.28.129.185,65535,  apac,  
+JAKARTA2, jk2-t1a-IJNX-rt01, 192.168.194.162, GigabitEthernet0/0/0, 172.31.239.181,50, JAKARTA, jk-t1a-rt01, 192.168.253.73, GigabitEthernet1/0/2, 172.31.239.182,50,  apac,1
+OSAKA, osa-t1a-rt02, 192.168.253.42, GigabitEthernet3/1/2, 172.28.139.38,700, TOKYO2, tk2-t1a-rt01, 192.168.253.88, GigabitEthernet0/1/0, 172.28.139.37,700,  apac,6
+SINGAPORE2, si2-t1a-svqx-hcr01, 192.168.194.47, GE_1/1/2, 172.31.25.106,15, SINGAPORE2, si2-t1a-rt01, 192.168.250.10, GigabitEthernet8/0/2, 172.31.25.105,15,  apac,  
+JAKARTA2, jk2-t1a-IJNX-rt01, 192.168.194.162, GigabitEthernet0/0/1, 172.31.163.93,65535, JAKARTA, jk-t1a-acgka-acn-rt02, 192.168.201.70, GigabitEthernet0/0/0, 172.31.163.94,65535,  apac,1
+MIAMI, mia-t1a-mlnx-hpe02, 192.168.194.148, GE_1/1/6, 172.28.147.58,65535, ATLANTA, atl-t1a-a56x-hrt02, 192.168.201.194, GE_1/1/10, 172.28.147.57,65535,  americas,  
+NEW YORK, ny-t1a-rt01, 192.168.248.2, GigabitEthernet3/1/3, 172.31.36.17,15, NEW YORK, ny-t1a-cr03, 192.168.248.75, GigabitEthernet3/2, 172.31.36.18,15,  americas,  
+SANTA CLARA, sc-t1a-sv1x-hcr01, 192.168.194.203, TE_1/2/1, 172.31.197.181,15, SANTA CLARA, sc-t1a-s99x-hpe01, 192.168.251.17, TE_10/1/14, 172.31.197.182,15,  americas,  
+PARIS, par-t1a-p96x-hcr01, 192.168.194.137, TE_1/2/4, 172.31.85.197,10, PARIS, par-t1a-p96x-hcr02, 192.168.201.120, TE_3/2/2, 172.31.85.198,10,  europe,  
+SANTA CLARA, sc-t1a-sv1x-hcr01, 192.168.194.203, TE_1/2/3, 172.31.236.37,4900, CHICAGO, ch-t1a-ct8x-hpe01, 192.168.200.17, TE_1/1/14, 172.31.236.38,4900,  americas,50.1
+NEW JERSEY, nj-t1a-njyx-hcr01, 192.168.194.212, TE_1/1/13, 172.31.197.101,2700, DALLAS, da-t1a-d0vx-hpe01, 192.168.247.23, TE_1/1/14, 172.31.197.102,2700,  americas,39.1
+NEW YORK, ny-t1a-rt02, 192.168.248.3, GigabitEthernet1/11, 59.163.55.202,15, NEW YORK, ny-t1a-cr02, 192.168.248.74, GigabitEthernet3/17, 59.163.55.201,15,  americas,  
+JAKARTA2, jk2-t1a-IJNX-rt01, 192.168.194.162, POS1/1/2, 172.31.239.177,5000, SINGAPORE, si-t1a-hcr01, 192.168.250.14, STM1_5/2/2, 172.31.239.178,5000,  apac,12.4
+FRANKFURT2, fft2-t1a-feqx-hrt01, 192.168.194.195, GE_1/1/2, 172.31.143.158,4000, BUDAPEST, bud-t1a-rt02, 192.168.246.89, GigabitEthernet3/0/3, 172.31.143.157,4000,  europe,16
+NEW YORK, ny-t1a-rt02, 192.168.248.3, GigabitEthernet6/1, 59.163.55.198,15, NEW YORK, ny-t1a-cr03, 192.168.248.75, GigabitEthernet3/17, 59.163.55.197,15,  americas,  
+PARIS, par-t1a-p96x-hcr01, 192.168.194.137, TE_1/2/2, 172.31.85.26,1350, AMSTERDAM, am-t1a-hrt03, 192.168.246.100, TE_1/2/2, 172.31.85.25,1350,  europe,9.76
+DOHA2, doh2-t1a-un4x-hrt01, 192.168.194.41, STM4_5/2/9, 172.31.156.77,4000, FUJAIRAH, fuj-t1a-hrt01, 192.168.252.229, STM4_5/1/9, 172.31.156.78,4000,  middleast,9.56
+HONGKONG2, hk2-t1a-kthx-hrt01, 192.168.194.185, TE_5/1/14, 172.31.163.202,10, HONGKONG2, hk2-t1a-kthx-hrt02, 192.168.201.73, TE_3/1/13, 172.31.163.201,10,  apac,  
+DUBLIN, dub-t1a-edux-hrt02, 192.168.201.198, GE_1/1/12, 172.28.141.221,65535, LONDON, ln-t1a-l78x-hpe01, 192.168.246.170, GE_5/1/12, 172.28.141.222,65535,  europe,0.34
+FRANKFURT, fft-t1a-fnmx-hcr02, 192.168.194.139, GE_1/1/5, 172.29.213.113,10000, ISTANBUL2, ist2-t1a-hrt01, 192.168.247.13, GE_1/8/2, 172.29.213.114,10000,  europe,40.2
+SINGAPORE2, si2-t1a-svqx-hcr02, 192.168.194.48, GE_5/2/4, 172.31.205.214,15, SINGAPORE2, si2-t1a-svqx-hpe02, 192.168.201.37, GE_3/1/13, 172.31.205.213,15,  apac,  
+HONGKONG2, hk2-t1a-kthx-hrt01, 192.168.194.185, GE_1/1/5, 172.28.139.33,10, HONGKONG2, hk2-t1a-rt01, 192.168.253.12, GigabitEthernet3/0/4, 172.28.139.34,10,  apac,  
+Johannesburg2, job2-t1a-jhbx-hrt01, 192.168.194.177, GE_5/1/11, 172.28.140.197,65000, DAR-E-SALAAM, dar-t1a-hrt01, 192.168.246.21, GE_1/8/5, 172.28.140.198,65000,  africa,54.2
+HELSINKI, hel1-t1a-hrt01, 192.168.246.22, GE_2/1/4, 172.31.84.133,100, HELSINKI2, hel2-t1a-hrt01, 192.168.246.23, GE_2/1/4, 172.31.84.134,100,  europe,0.47
+CHICAGO, ch-t1a-ct8x-hpe01, 192.168.200.17, TE_1/1/13, 172.31.197.153,10, CHICAGO, ch-t1a-rt03, 192.168.248.21, TenGigabitEthernet9/1, 172.31.197.154,10,  americas,  
+CHICAGO, ch-t1a-ct8x-hpe01, 192.168.200.17, TE_4/1/1, 172.31.202.221,10, CHICAGO, ch-t1a-rt03, 192.168.248.21, TenGigabitEthernet4/1, 172.31.202.222,10,  americas,  
+STOCKHOLM, sto-t1a-stkx-hrt02, 192.168.201.88, GE_1/1/41, 172.28.128.210,100, STOCKHOLM, sto-t1a-rt04, 192.168.254.63, GigabitEthernet0/0/0, 172.28.128.209,100,  europe,  
+NEW YORK, ny-t1a-cr03, 192.168.248.75, GigabitEthernet3/18, 172.29.215.85,15, NEW YORK, ny-t1a-n99x-hpe02, 192.168.248.79, GE_10/1/12, 172.29.215.86,15,  americas,  
+ATLANTA, atl-t1a-rt02, 192.168.248.19, GigabitEthernet3/0/0, 192.168.38.82,15, ATLANTA, atl-t1a-rt01, 192.168.248.27, GigabitEthernet3/0/0, 192.168.38.81,15,  americas,  
+TOKYO, tk-t1a-t0vx-hcr01, 192.168.253.174, GE_5/1/5, 172.31.206.221,60000, TAIPEI, tai-t1a-rt01, 192.168.253.56, GigabitEthernet3/0/4, 172.31.206.222,60000,  apac,28
+BUDAPEST, bud-t1a-rt01, 192.168.246.88, GigabitEthernet2/1/4, 172.31.85.45,10, BUDAPEST, bud-t1a-rt02, 192.168.246.89, GigabitEthernet2/1/1, 172.31.85.46,10,  europe,  
+CHICAGO, ch-t1a-ct8x-hpe01, 192.168.200.17, STM4_3/1/13, 172.23.250.29,1000, CHICAGO, ch-t1a-rt03, 192.168.248.21, POS2/3/0, 172.23.250.30,1000,  americas,  
+Haneda, han-t1a-ahndax-acn-rt02, 192.168.201.71, GigabitEthernet0/0/0.119, 172.31.163.106,45000, TOKYO2, tk2-t1a-rt01, 192.168.253.88, GigabitEthernet0/0/4.119, 172.31.163.105,45000,  apac,3
+HONGKONG, hk-t1a-h99x-hcr01, 192.168.194.49, TE_1/1/14, 172.31.248.185,3895, MANILA2, mla2-t1a-gx0x-hrt01, 192.168.194.93, TE_1/1/14, 172.31.248.186,3885,  apac,18.3
+HONGKONG, hk-t1a-h99x-hcr01, 192.168.194.49, GE_1/1/3, 172.31.253.213,15, HONGKONG, hk-t1a-rt09-ASBR, 192.168.253.8, GigabitEthernet0/1/1, 172.31.253.214,15,  apac,  
+SINGAPORE2, si2-t1a-svqx-hcr02, 192.168.194.48, GE_1/1/3, 172.31.25.114,15, SINGAPORE2, si2-t1a-rt02, 192.168.250.11, GigabitEthernet4/1/2, 172.31.25.113,15,  apac,  
+CAPE TOWN, cap-t1a-eagx-hrt01, 192.168.194.178, GE_1/1/2, 172.31.207.41,10, CAPE TOWN, cap-t1a-eagx-hrt02, 192.168.194.179, GE_1/1/2, 172.31.207.42,10,  africa,  
+DALLAS, da-t1a-rt01, 192.168.187.33, GigabitEthernet2/1/3, 172.31.125.110,10, DALLAS, da-t1a-rt03, 192.168.251.35, GigabitEthernet3/0/0, 172.31.125.109,10,  americas,  
+LONDON2, ln2-t1a-ldnx-hrt02, 192.168.201.127, TE_1/1/13, 172.31.143.205,100, LONDON, ln-t1a-hcr01, 192.168.246.13, TE_1/2/1, 172.31.143.206,100,  europe,0.26
+NEW JERSEY, nj-t1a-njyx-hcr01, 192.168.194.212, TE_5/1/1, 172.31.197.242,15, NEW JERSEY, nj-t1a-njyx-hpe02, 192.168.248.41, TE_9/1/13, 172.31.197.241,15,  americas,  
+DUBAI, du-t1a-rt01, 192.168.252.224, GigabitEthernet9/3/1, 172.28.140.85,10, DUBAI, du-t1a-rt03, 192.168.252.225, GigabitEthernet9/3/1, 172.28.140.86,10,  middleast,  
+LONDON, ln-t1a-l78x-hrv01, 192.168.194.201, GE_1/1/1, 172.31.207.173,65535, LONDON, ln-t1a-hcr01, 192.168.246.13, GE_3/1/6, 172.31.207.174,65535,  europe,  
+SINGAPORE2, si2-t1a-svqx-hcr01, 192.168.194.47, GE_1/1/3, 172.31.25.118,15, SINGAPORE2, si2-t1a-rt01, 192.168.250.10, GigabitEthernet8/0/1, 172.31.25.117,15,  apac,  
+MUSCAT, mus-t1a-OB6x-hrt01, 192.168.194.109, STM1_1/10/1, 172.31.239.21,20000, FUJAIRAH, fuj-t1a-hrt01, 192.168.252.229, STM1_5/1/7, 172.31.239.22,20000,  middleast,4.68
+PARIS, par-t1a-p96x-hcr01, 192.168.194.137, GE_1/1/5, 172.31.237.86,3510, MILAN, mil-t1a-rt02, 192.168.246.153, GigabitEthernet2/2/2, 172.31.237.85,3510,  europe,12
+PARIS, par-t1a-p96x-hcr02, 192.168.201.120, GE_1/1/2, 172.31.84.237,15, PARIS, par-t1a-rt03, 192.168.246.69, GigabitEthernet7/0/0, 172.31.84.238,15,  europe,  
+MIAMI, mia-t1a-rt01, 192.168.248.22, GigabitEthernet3/1/4, 172.31.27.34,15, MIAMI, mia-t1a-rt05-ASBR, 192.168.248.31, GigabitEthernet0/0/0, 172.31.27.33,15,  americas,  
+MOSCOW, mos-t1a-rt01, 192.168.246.72, GigabitEthernet3/0/0, 172.31.102.17,10, MOSCOW, mos-t1a-rt02, 192.168.246.73, GigabitEthernet3/0/0, 172.31.102.18,10,  europe,  
+HIGH BRIDGE, hbg-t1a-hb9x-hrt01, 192.168.194.13, TE_5/1/14, 172.31.254.166,500, CRESSEX, crx-t1a-hw1x-hrt02, 192.168.194.45, TE_5/1/14, 172.31.254.165,500,  europe,2.66
+HIGH BRIDGE, hbg-t1a-hb9x-hrt01, 192.168.194.13, STM4_3/1/10, 172.31.59.178,65535, PARIS2, par2-t1a-rt01, 192.168.246.67, POS2/1/0, 172.31.59.177,65535,  europe,  
+HONGKONG, hk-t1a-h99x-hcr01, 192.168.194.49, TE_3/1/3, 172.28.138.121,4000, SEOUL3, seo3-t1a-OO8x-hrt01, 192.168.194.89, TE_1/1/14, 172.28.138.122,4000,  apac,37
+MOROCCO, mor-t1a-52wx-hrt02, 192.168.201.74, GE_2/1/25, 172.31.185.249,50000, PARIS2, par2-t1a-rt01, 192.168.246.67, GigabitEthernet3/2/3, 172.31.185.250,50000,  europe,52
+PARIS, par-t1a-p96x-hcr01, 192.168.194.137, STM1_5/1/1, 172.31.59.10,10100, MADRID, ma-t1a-wv6x-hrt01, 192.168.194.22, STM1_3/1/1, 172.31.59.9,10100,  europe,31.6
+FRANKFURT, fft-t1a-fnmx-hcr02, 192.168.194.139, TE_5/1/13, 172.26.11.222,10, FRANKFURT, fft-t1a-fnm-hcr01, 192.168.247.12, TE_2/2/2, 172.26.11.221,10,  europe,  
+PARIS, par-t1a-p96x-hcr02, 192.168.201.120, TE_3/1/2, 172.31.185.1,2000, PARIS2, par2-t1a-rt01, 192.168.246.67, TenGigabitEthernet4/1, 172.31.185.2,2000,  europe,1
+SANTA CLARA, sc-t1a-sv1x-hcr01, 192.168.194.203, TE_1/1/14, 172.31.202.21,10, SANTA CLARA, sc-t1a-cr03, 192.168.251.10, TenGigabitEthernet2/2, 172.31.202.22,10,  americas,  
+MADRID, ma-t1a-wv6x-hrt01, 192.168.194.22, GE_1/1/9, 172.31.185.242,50000, MOROCCO, mor-t1a-52wx-hrt01, 192.168.201.61, GE_2/1/25, 172.31.185.241,50000,  europe,21.5
+OSAKA, osa-t1a-rt01, 192.168.253.41, GigabitEthernet3/0/0, 192.168.37.241,10, OSAKA, osa-t1a-rt02, 192.168.253.42, GigabitEthernet2/0/0, 192.168.37.242,10,  apac,  
+KARACHI, kar-t1a-rt01, 192.168.246.178, POS0/3/1, 172.31.82.165,50000, FUJAIRAH, fuj-t1a-hrt01, 192.168.252.229, STM1_4/1/15, 172.31.82.166,50000,  middleast,19
+SYDNEY, sy-t1a-m3hx-hrt01, 192.168.194.43, GE_1/1/8, 172.31.248.37,10, SYDNEY, sy-t1a-rt01, 192.168.252.1, GigabitEthernet4/1/3, 172.31.248.38,10,  apac,  
+NEW YORK, ny-t1a-cr03, 192.168.248.75, TenGigabitEthernet1/1, 172.28.147.38,65535, NEW YORK, ny-t1a-n99x-hpe02, 192.168.248.79, TE_3/1/13, 172.28.147.37,65535,  americas,  
+FRANKFURT, fft-t1a-fnmx-hcr02, 192.168.194.139, TE_1/2/4, 172.31.237.110,1500, MUNICH, mun-t1a-mu1x-hrt01, 192.168.194.169, TE_1/1/13, 172.31.237.109,1500,  europe,6.18
+Johannesburg2, job2-t1a-jhbx-hrt01, 192.168.194.177, GE_5/1/6, 172.28.128.97,65535, JOHANNESBURG, jo-t1a-ajnba-acn-rt02, 192.168.201.80, GigabitEthernet0/0/0, 172.28.128.98,65535,  africa,1
+ZURICH, zu-t1a-rt01, 192.168.246.40, GigabitEthernet2/1/0, 172.26.10.85,10, ZURICH, zu-t1a-rt02, 192.168.246.41, GigabitEthernet2/1/0, 172.26.10.86,10,  europe,  
+SYDNEY, sy-t1a-m3hx-hrt01, 192.168.194.43, TE_3/2/2, 172.28.138.189,12000, SINGAPORE, si-t1a-hcr01, 192.168.250.14, TE_4/1/3, 172.28.138.190,12000,  apac,91.3
+SANTA CLARA, sc-t1a-sv1x-hcr01, 192.168.194.203, TE_5/1/1, 172.31.197.185,15, SANTA CLARA, sc-t1a-s99x-hpe02, 192.168.251.11, TE_10/1/14, 172.31.197.186,15,  americas,  
+WARSAW, wa-t1a-wznx-hrt01, 192.168.201.178, TE_1/1/13, 172.28.141.14,65535, WARSAW, wa-t1a-wznx-hrt02, 192.168.201.179, TE_1/1/13, 172.28.141.13,65535,  europe,  
+PARIS, par-t1a-p96x-hcr01, 192.168.194.137, TE_2/2/2, 172.29.213.125,10, PARIS, par-t1a-p96x-hcr02, 192.168.201.120, TE_1/1/14, 172.29.213.126,10,  europe,  
+NEW YORK, ny-t1a-rt05, 192.168.248.6, GigabitEthernet8/2/3, 172.31.27.253,15, NEW YORK, ny-t1a-cr03, 192.168.248.75, GigabitEthernet3/6, 172.31.27.254,15,  americas,  
+NEW YORK, ny-t1a-n99x-hcr01, 192.168.194.136, GE_5/1/12, 172.31.197.34,19000, Toronto2, tor2-t1a-tttx-hrt01, 192.168.194.187, GE_5/1/2, 172.31.197.33,19000,  americas,11.8
+MILAN, mil-t1a-itmx-hrt01, 192.168.194.163, GE_1/1/2, 172.31.237.81,10, MILAN, mil-t1a-rt02, 192.168.246.153, GigabitEthernet3/0/3, 172.31.237.82,10,  europe,  
+HONGKONG, hk-t1a-h99x-hcr01, 192.168.194.49, TE_3/1/1, 172.31.82.158,15, HONGKONG, hk-t1a-h99x-hpe02, 192.168.201.121, TE_1/1/13, 172.31.82.157,15,  apac,  
+SEOUL2, seo2-t1a-OO7x-hrt01, 192.168.194.76, TE_5/1/13, 172.31.206.201,4000, TOKYO, tk-t1a-t0vx-hcr01, 192.168.253.174, TE_2/2/4, 172.31.206.202,4000,  apac,29.7
+FRANKFURT, fft-t1a-fnmx-hcr02, 192.168.194.139, GE_5/1/5, 172.31.26.114,15, FRANKFURT, fft-t1a-rt07-ASBR, 192.168.254.38, GigabitEthernet1/0/2, 172.31.26.113,15,  europe,  
+Brazil, brz-t1a-xxhx-hrt01, 192.168.201.26, GE_5/1/3.105, 172.28.146.98,31000, MIAMI, mia-t1a-rt01, 192.168.248.22, GigabitEthernet2/1/2.105, 172.28.146.97,31000,  americas,104
+SINGAPORE, si-t1a-hcr01, 192.168.250.14, GE_3/1/2, 172.31.124.5,10, SINGAPORE, si-t1a-rt01, 192.168.250.2, GigabitEthernet3/0/2, 172.31.124.6,10,  apac,  
+CAPE TOWN, cap-t1a-acpta-acn-rt01, 192.168.201.75, GigabitEthernet0/1/0, 172.28.128.49,65535, CAPE TOWN, cap-t1a-acpta-acn-rt02, 192.168.201.76, GigabitEthernet0/1/0, 172.28.128.50,65535,  africa,  
+CAPE TOWN, cap-t1a-eagx-hrt01, 192.168.194.178, GE_1/1/1, 172.31.207.93,400, Johannesburg, job-t1a-eopx-hrt01, 192.168.194.182, GE_5/1/1, 172.31.207.94,400,  africa,20.3
+LONDON, ln-t1a-hcr01, 192.168.246.13, GE_3/1/2, 172.31.24.121,1000, LONDON, ln-t1a-rt04-PE, 192.168.246.6, GigabitEthernet7/0/2, 172.31.24.122,1000,  europe,  
+MILAN, mil-t1a-itmx-hrt01, 192.168.194.163, GE_1/1/1, 172.31.237.77,10, MILAN, mil-t1a-rt02, 192.168.246.153, GigabitEthernet3/0/4, 172.31.237.78,10,  europe,  
+MILAN, mil-t1a-itmx-hrt01, 192.168.194.163, TE_5/1/13, 172.26.11.181,3669, FRANKFURT, fft-t1a-fnm-hcr01, 192.168.247.12, TE_2/2/3, 172.26.11.182,3669,  europe,9.85
+LONDON, ln-t1a-l78x-hcr02, 192.168.194.138, TE_5/1/14, 172.31.247.125,15, LONDON, ln-t1a-l78x-hpe02, 192.168.246.171, TE_10/1/14, 172.31.247.126,15,  europe,  
+LOS ANGELES, la-t1a-27gx-hcr01, 192.168.194.229, GE_1/1/1, 172.31.202.117,65535, LOS ANGELES, la-t1a-rt02, 192.168.248.18, GigabitEthernet3/2/0, 172.31.202.118,65535,  americas,  
+DALLAS, da-t1a-d0vx-hpe01, 192.168.247.23, TE_5/1/14, 172.31.190.10,10, DALLAS, da-t1a-rt03, 192.168.251.35, TenGigabitEthernet7/2, 172.31.190.9,10,  americas,  
+MIAMI, mia-t1a-rt01, 192.168.248.22, GigabitEthernet3/1/3, 172.31.27.38,15, MIAMI, mia-t1a-rt05-ASBR, 192.168.248.31, GigabitEthernet0/0/1, 172.31.27.37,15,  americas,  
+SINGAPORE, si-t1a-svwx-hcr02, 192.168.194.131, GE_1/1/11, 172.31.39.9,15, SINGAPORE, si-t1a-svwx-rt07-asbr, 192.168.250.30, GigabitEthernet0/1, 172.31.39.10,15,  apac,  
+CAPE TOWN, cap-t1a-eagx-hrt01, 192.168.194.178, GE_5/1/6, 172.28.128.53,65535, CAPE TOWN, cap-t1a-acpta-acn-rt01, 192.168.201.75, GigabitEthernet0/0/0, 172.28.128.54,65535,  africa,  
+SINGAPORE, tcx-t1a-ih4x-hrt02, 192.168.201.43, GE_1/1/25, 172.31.205.253,10, SINGAPORE, tcx-t1a-ih4x-hrt01, 192.168.201.5, GE_1/1/25, 172.31.205.254,10,  apac,  
+NEW YORK, ny-t1a-n99x-hcr01, 192.168.194.136, GE_5/1/11, 172.20.248.181,19000, Toronto2, tor2-t1a-tttx-hrt01, 192.168.194.187, GE_5/1/4, 172.20.248.182,19000,  americas,11.8
+LONDON, ln-t1a-l78x-hcr02, 192.168.194.138, GE_5/1/7, 172.31.207.186,65535, LONDON, ln-t1a-l78x-hrv01, 192.168.194.201, GE_5/1/1, 172.31.207.185,65535,  europe,  
+JOHANNESBURG, jo-t1a-rt01, 192.168.246.16, GigabitEthernet7/0/1, 172.29.217.62,50000, HARARE, har-t1a-hrt01, 192.168.246.18, GE_1/7/2, 172.29.217.61,50000,  africa,18.2
+LONDON, ln-t1a-l78x-hcr02, 192.168.194.138, GE_1/1/6, 172.31.59.69,5000, DUBLIN, dub-t1a-rt01, 192.168.246.80, GigabitEthernet3/0/3, 172.31.59.70,5000,  europe,8
+SINGAPORE2, si2-t1a-svqx-hcr01, 192.168.194.47, TE_2/2/3, 172.31.238.222,400, SINGAPORE, si-t1a-hcr01, 192.168.250.14, TE_2/2/3, 172.31.238.221,400,  apac,0.66
+VIETNAM, vi-t1a-asgna-acn-rt01, 192.168.201.111, GigabitEthernet0/0/1, 172.31.82.181,65535, VIETNAM, vi-t1a-asgna-acn-rt02, 192.168.201.112, GigabitEthernet0/0/1, 172.31.82.182,65535,  apac,  
+MADRID, ma-t1a-wv6x-hrt01, 192.168.194.22, GE_5/1/12, 172.23.102.45,100, MADRID, ma-t1a-rt01, 192.168.246.33, GigabitEthernet4/2/2, 172.23.102.46,100,  europe,  
+SYDNEY, sy-t1a-m3hx-hrt01, 192.168.194.43, GE_5/1/12, 172.28.138.126,12000, PERTH, per-t1a-h9ux-hrt01, 192.168.194.57, GE_1/1/9, 172.28.138.125,12000,  apac,46.5
+Seattle2, sea2-t1a-emsx-hrt01, 192.168.194.194, TE_5/1/13, 172.31.197.93,65535, CHICAGO, ch-t1a-ct8x-hpe01, 192.168.200.17, TE_2/1/1, 172.31.197.94,65535,  americas,52.7
+COLOMBO, ek-col-t3-rt04, 192.168.241.160, GigabitEthernet1/0/3, 172.28.129.174,8500, SINGAPORE, si-t1a-svwx-hpe02, 192.168.250.15, GE_2/2/3, 172.28.129.173,8500,  apac,  
+ASHBURN, ash-t1a-ae6x-rt04, 192.168.201.188, GigabitEthernet1/0/0, 172.28.146.249,15, ASHBURN, ash-t1a-ae6x-hrt01, 92.168.194.135, GE_3/2/2, 172.28.146.250,15,  americas,  
+SINGAPORE, si-t1a-svwx-hcr02, 192.168.194.131, TE_2/1/3.101, 172.28.138.133,5500, HONGKONG, hk-t1a-h99x-hcr01, 192.168.194.49, TE_4/1/4.101, 172.28.138.134,5500,  apac,37.6
+SINGAPORE2, si2-t1a-svqx-hcr02, 192.168.194.48, GE_1/1/2, 172.31.39.246,15, SINGAPORE2, si2-t1a-rt02, 192.168.250.11, GigabitEthernet4/1/4, 172.31.39.245,15,  apac,  
+BUDAPEST, bud-t1a-rt01, 192.168.246.88, GigabitEthernet2/1/0, 172.23.182.254,3900, FRANKFURT, fft-t1a-fnm-hcr01, 192.168.247.12, GE_3/1/10, 172.23.182.253,3900,  europe,14.7
+FRANKFURT, fft-t1a-fnm-hcr01, 192.168.247.12, GE_3/1/8, 172.31.207.218,15500, ISTANBUL2, ist2-t1a-hrt01, 192.168.247.13, GE_1/8/3, 172.31.207.217,15500,  europe,38.8
+LONDON, ln-t1a-l78x-hcr02, 192.168.194.138, GE_5/1/8, 172.31.84.81,50000, LISBON, lsb-t1a-pv9x-hrt01, 192.168.201.113, GE_1/5/1, 172.31.84.82,50000,  europe,31
+LOS ANGELES, la-t1a-cr01, 192.168.248.28, GigabitEthernet3/15, 172.20.249.253,20, LOS ANGELES, la-t1a-cr02, 192.168.248.30, GigabitEthernet3/15, 172.20.249.254,20,  americas,  
+LONDON2, ln2-t1a-ldnx-hrt02, 192.168.201.127, GE_5/1/1, 172.23.182.86,5000, BRUSSELS, bru-t1a-rt01, 192.168.246.44, GigabitEthernet7/1/0, 172.23.182.85,5000,  europe,4
+NEW JERSEY, nj-t1a-njyx-hcr01, 192.168.194.212, TE_1/2/3, 172.31.24.245,10, NEW JERSEY, nj-t1a-njyx-cr02, 192.168.194.4, TenGigabitEthernet2/2, 172.31.24.246,10,  americas,  
+AMSTERDAM, am-t1a-a99x-hrt01, 192.168.194.28, GE_5/1/3, 172.31.247.57,15, AMSTERDAM, am-t1a-rt01, 192.168.246.97, GigabitEthernet4/1/0, 172.31.247.58,15,  europe,  
+HONGKONG, hk-t1a-h99x-hcr01, 192.168.194.49, TE_4/1/2, 172.28.129.25,600, HONGKONG2, hk2-t1a-kthx-hrt02, 192.168.201.73, TE_1/1/14, 172.28.129.26,600,  apac,0.59
+SINGAPORE, si-t1a-svwx-hcr02, 192.168.194.131, TE_1/1/14, 172.31.239.73,15, SINGAPORE, si-t1a-svwx-hpe02, 192.168.250.15, TE_1/1/14, 172.31.239.74,15,  apac,  
+FRANKFURT, fft-t1a-fnmx-hcr02, 192.168.194.139, TE_1/1/13, 172.31.247.133,10, FRANKFURT, fft-t1a-fnm-hcr01, 192.168.247.12, TE_4/1/4, 172.31.247.134,10,  europe,  
+ISTANBUL, ist-t1a-rt01, 192.168.246.112, GigabitEthernet2/0/1, 172.26.11.2,16000, ISTANBUL2, ist2-t1a-hrt01, 192.168.247.13, GE_1/8/4, 172.26.11.1,16000,  europe,0.87
+SEATTLE, sea-t1a-00sx-hpe01, 192.168.250.193, TE_3/1/13, 172.29.215.138,61500, SANTA CLARA, sc-t1a-cr03, 192.168.251.10, TenGigabitEthernet4/1, 172.29.215.137,61500,  americas,16
+MOROCCO, mor-t1a-52wx-hrt01, 192.168.201.61, GE_1/1/23, 172.31.185.237,10, MOROCCO, mor-t1a-52wx-hrt02, 192.168.201.74, GE_1/1/23, 172.31.185.238,10,  europe,  
+TOKYO, tk-t1a-t0vx-hcr02, 192.168.201.191, GE_1/1/6, 172.31.17.125,65535, SYDNEY, sy-t1a-1mhx-hrt02, 192.168.201.54, GE_3/1/12:3001, 172.31.17.126,65535,  apac,102
+LONDON, ln-t1a-l78x-hcr02, 192.168.194.138, TE_3/1/4, 172.31.84.249,500, AMSTERDAM, am-t1a-a99x-hrt01, 192.168.194.28, TE_3/1/1, 172.31.84.250,500,  europe,5.4
+PARIS2, par2-t1a-pvux-hrt02, 192.168.194.239, GE_1/1/1, 172.26.10.101,10, PARIS2, par2-t1a-rt01, 192.168.246.67, GigabitEthernet3/1/4, 172.26.10.102,10,  europe,  
+TOKYO, tk-t1a-t0vx-hcr02, 192.168.201.191, GE_1/1/9, 172.31.163.109,65535, Haneda, han-t1a-ahndax-acn-rt01, 192.168.201.72, GigabitEthernet0/0/0, 172.31.163.110,65535,  apac,1
+SANTA CLARA, sc-t1a-sv1x-hcr01, 192.168.194.203, TE_5/1/4, 172.31.36.225,10, SANTA CLARA, sc-t1a-cr03, 192.168.251.10, TenGigabitEthernet4/2, 172.31.36.226,10,  americas,  
+MOSCOW, mos-t1a-rt01, 192.168.246.72, GigabitEthernet3/1/0, 172.31.102.21,10, MOSCOW, mos-t1a-rt02, 192.168.246.73, GigabitEthernet3/1/0, 172.31.102.22,10,  europe,  
+TORONTO, tor-t1a-t6ux-hrt01, 192.168.194.144, TE_1/1/14, 172.20.248.242,19000, CHICAGO, ch-t1a-ct8x-hpe01, 192.168.200.17, TE_4/1/2, 172.20.248.241,19000,  americas,13.8
+HONGKONG, hk-t1a-h99x-hcr01, 192.168.194.49, TE_5/1/14, 172.31.253.193,10, HONGKONG, hk-t1a-cr02, 192.168.253.7, TenGigabitEthernet2/2, 172.31.253.194,10,  apac,  
+TOKYO, tk-t1a-t0vx-hrv01, 192.168.194.202, GE_1/1/1, 172.31.206.225,65535, TOKYO, tk-t1a-t0vx-hcr01, 192.168.253.174, GE_1/1/4, 172.31.206.226,65535,  apac,  
+MANILA, mla-t1a-amnla-acn-rt01, 192.168.194.247, GigabitEthernet0/1/0, 172.31.163.241,65535, MANILA, mla-t1a-amnla-acn-rt02, 192.168.201.79, GigabitEthernet0/1/0, 172.31.163.242,65535,  apac,  
+PARIS, par-t1a-p96x-hcr02, 192.168.201.120, TE_3/2/1, 172.31.26.129,1350, AMSTERDAM, am-t1a-hrt03, 192.168.246.100, TE_2/1/13, 172.31.26.130,1350,  europe,9.98
+DALLAS, da-t1a-d0vx-hpe01, 192.168.247.23, TE_5/1/13, 172.31.197.109,1200, ATLANTA, atl-t1a-rt02, 192.168.248.19, TenGigabitEthernet4/2, 172.31.197.110,1200,  americas,16
+SYDNEY, sy-t1a-m3hx-hrt01, 192.168.194.43, GE_1/1/9, 172.31.248.45,10, SYDNEY, sy-t1a-rt03, 192.168.252.3, GigabitEthernet4/1/4, 172.31.248.46,10,  apac,  
+Johannesburg, job-t1a-eopx-hrt01, 192.168.194.182, GE_5/1/6, 172.31.84.149,65535, JOHANNESBURG, jo-t1a-ajnba-acn-rt01, 192.168.201.82, GigabitEthernet0/0/0, 172.31.84.150,65535,  africa,2
+FRANKFURT3, fft3-t1a-fr1x-hrt01, 192.168.194.172, TE_1/1/13, 172.31.237.145,500, FRANKFURT, fft-t1a-fnm-hcr01, 192.168.247.12, TE_2/2/1, 172.31.237.146,500,  europe,0.6
+HONGKONG, hk-t1a-cr02, 192.168.253.7, GigabitEthernet7/0/0, 172.31.25.205,15, HONGKONG, hk-t1a-rt09-ASBR, 192.168.253.8, GigabitEthernet1/0/1, 172.31.25.206,15,  apac,  
+SINGAPORE2, si2-t1a-svqx-hcr01, 192.168.194.47, GE_1/1/10, 172.31.82.89,65535, SINGAPORE, si-t1a-asinx-acn-rt01, 192.168.201.67, GigabitEthernet0/0/0, 172.31.82.90,65535,  apac,1
+WARSAW, wa-t1a-wznx-hrt02, 192.168.201.179, GE_1/1/11, 172.31.246.137,4000, FRANKFURT2, fft2-t1a-feq-rt02, 192.168.247.9, GigabitEthernet2/1/3, 172.31.246.138,4000,  europe,12
+NEW JERSEY, nj-t1a-njyx-hcr01, 192.168.194.212, GE_1/1/4, 172.31.202.81,60000, BOSTON, bos-t1a-rt01, 192.168.248.38, GigabitEthernet1/0/4, 172.31.202.82,60000,  americas,7
+SANTA CLARA, sc-t1a-s99x-hpe02, 192.168.251.11, TE_1/1/13, 172.23.250.134,10, SANTA CLARA, sc-t1a-s99x-hpe01, 192.168.251.17, TE_1/1/13, 172.23.250.133,10,  americas,  
+TAIPEI, tai-t1a-tj5x-hrt02, 192.168.201.56, GE_3/1/1, 172.31.163.5,10, TAIPEI, tai-t1a-rt01, 192.168.253.56, GigabitEthernet7/1/0, 172.31.163.6,10,  apac,  
+LONDON, ln-t1a-l78x-hcr02, 192.168.194.138, GE_1/1/12, 172.31.39.25,100, LONDON, ln-t1a-rt08-ASBR, 192.168.246.29, GigabitEthernet0/1, 172.31.39.26,100,  europe,  
+NEW YORK, ny-t1a-n99x-hrv01, 192.168.194.204, GE_5/1/1, 172.31.197.197,65535, NEW YORK, ny-t1a-cr03, 192.168.248.75, GigabitEthernet3/20, 172.31.197.198,65535,  americas,  
+JAKARTA, jk-t1a-acgka-acn-rt01, 192.168.201.69, GigabitEthernet0/0/0, 172.31.163.98,65535, JAKARTA, jk-t1a-rt01, 192.168.253.73, GigabitEthernet0/0/2, 172.31.163.97,65535,  apac,  
+Haneda, han-t1a-ahndax-acn-rt02, 192.168.201.71, GigabitEthernet0/0/1, 172.31.163.102,10, Haneda, han-t1a-ahndax-acn-rt01, 192.168.201.72, GigabitEthernet0/0/1, 172.31.163.101,10,  apac,  
+SINGAPORE, si-t1a-hcr01, 192.168.250.14, GE_2/1/4, 172.31.248.18,4600, VIETNAM, vi-t1a-rt01, 192.168.251.108, GigabitEthernet0/0/2, 172.31.248.17,4600,  apac,32
+MIAMI, mia-t1a-mlnx-hpe02, 192.168.194.148, STM16_2/2/1, 172.31.14.18,1800, NEW YORK, ny-t1a-cr03, 192.168.248.75, POS8/0/0, 172.31.14.17,1800,  americas,28
+HONGKONG, hk-t1a-h99x-hpe02, 192.168.201.121, GE_1/1/7, 172.31.83.97,15, HONGKONG, hk-t1a-rt08-PE, 192.168.253.16, GigabitEthernet4/6, 172.31.83.98,15,  apac,  
+JAKARTA2, jk2-t1a-IJNX-rt01, 192.168.194.162, GigabitEthernet0/0/4, 172.31.207.205,65535, Bali, bal-t1a-eahx-acn-rt02, 192.168.194.216, GigabitEthernet0/0/0, 172.31.207.206,65535,  apac,18
+WARSAW, wa-t1a-wznx-hpe02, 192.168.246.48, GE_1/9/1, 172.23.182.94,10, WARSAW, wa-t1a-wznx-hpe01, 192.168.246.49, GE_1/9/1, 172.23.182.93,10,  europe,  
+PARIS, par-t1a-p96x-hcr02, 192.168.201.120, GE_1/1/7, 172.29.213.225,4900, BRUSSELS, bru-t1a-rt01, 192.168.246.44, GigabitEthernet2/0/0, 172.29.213.226,4900,  europe,4
+DUBLIN, dub-t1a-rt01, 192.168.246.80, GigabitEthernet3/0/0, 172.31.102.49,10, DUBLIN, dub-t1a-rt02, 192.168.246.81, GigabitEthernet3/0/0, 172.31.102.50,10,  europe,  
+DUBLIN, dub-t1a-edux-hrt01, 192.168.201.199, GE_1/1/12, 172.28.141.209,65535, LONDON, ln-t1a-l78x-hpe01, 192.168.246.170, GE_5/1/11, 172.28.141.210,65535,  europe,0.34
+SINGAPORE, si-t1a-hcr01, 192.168.250.14, GE_3/1/1, 172.31.124.9,10, SINGAPORE, si-t1a-rt01, 192.168.250.2, GigabitEthernet4/0/2, 172.31.124.10,10,  apac,  
+MUNICH, mun-t1a-mu1x-hrt01, 192.168.194.169, TE_5/1/13, 172.31.237.105,700, FRANKFURT2, fft2-t1a-feq-rt02, 192.168.247.9, TenGigabitEthernet4/1, 172.31.237.106,700,  europe,4
+SINGAPORE, si-t1a-svwx-hpe02, 192.168.250.15, GE_10/1/13, 172.31.239.78,15, SINGAPORE, si-t1a-svwx-hpe01, 192.168.250.16, GE_10/1/13, 172.31.239.77,15,  apac,  
+AMSTERDAM, am-t1a-hrt03, 192.168.246.100, GE_1/1/3, 172.31.247.54,15, AMSTERDAM, am-t1a-rt01, 192.168.246.97, GigabitEthernet2/3/1, 172.31.247.53,15,  europe,  
+PARIS, par-t1a-p96x-hcr01, 192.168.194.137, GE_5/2/3, 172.31.37.82,4000, GENEVA, gen-t1a-gvsx-hrt01, 192.168.194.161, GE_5/1/2, 172.31.37.81,4000,  europe,11.7
+AMSTERDAM, am-t1a-a99x-hrt01, 192.168.194.28, TE_1/1/14, 172.23.102.109,15, AMSTERDAM, am-t1a-hrt03, 192.168.246.100, TE_3/2/1, 172.23.102.110,15,  europe,  
+LONDON2, ln2-t1a-ldnx-hrt02, 192.168.201.127, TE_1/2/3, 172.28.131.229,15, LONDON, ln-t1a-rt11-PE, 192.168.246.4, TenGigabitEthernet7/2, 172.28.131.230,15,  europe,1
+HONGKONG2, hk2-t1a-kthx-hrt02, 192.168.201.73, GE_1/1/5, 172.28.139.29,10, HONGKONG2, hk2-t1a-rt01, 192.168.253.12, GigabitEthernet4/1/0, 172.28.139.30,10,  apac,  
+JAKARTA, jk-t1a-acgka-acn-rt01, 192.168.201.69, GigabitEthernet0/0/1, 172.31.205.233,10, JAKARTA, jk-t1a-acgka-acn-rt02, 192.168.201.70, GigabitEthernet0/0/1, 172.31.205.234,10,  apac,  
+FRANKFURT2, fft2-t1a-feqx-hrt01, 192.168.194.195, TE_1/1/13, 172.31.207.169,10, FRANKFURT2, fft2-t1a-feq-rt02, 192.168.247.9, TenGigabitEthernet4/2, 172.31.207.170,10,  europe,  
+PARIS, par-t1a-p96x-hcr01, 192.168.194.137, GE_1/1/4, 172.31.37.129,2100, PARIS2, par2-t1a-rt01, 192.168.246.67, GigabitEthernet3/0/3, 172.31.37.130,2100,  europe,1
+LOS ANGELES, la-t1a-27gx-hpe01, 192.168.194.150, GE_5/1/2, 172.31.236.165,50, LOS ANGELES, la-t1a-cr02, 192.168.248.30, GigabitEthernet3/12, 172.31.236.166,50,  americas,  
+NEW YORK, ny-t1a-rt05, 192.168.248.6, GigabitEthernet3/1/1, 172.31.36.165,15, NEW YORK, ny-t1a-cr02, 192.168.248.74, GigabitEthernet3/4, 172.31.36.166,15,  americas,  
+ASHBURN, ash-t1a-ae6x-hrt03, 192.168.201.187, TE_1/1/14, 172.28.146.206,10, ASHBURN, ash-t1a-ae6x-hrt01, 92.168.194.135, TE_1/1/13, 172.28.146.205,10,  americas,  
+NEW JERSEY, nj-t1a-njyx-cr02, 192.168.194.4, TenGigabitEthernet8/2, 172.20.248.177,15, NEW JERSEY, nj-t1a-njyx-hpe01, 192.168.248.40, TE_9/1/2, 172.20.248.178,15,  americas,  
+AMSTERDAM, am-t1a-hrt03, 192.168.246.100, TE_1/2/1, 172.31.84.254,1000, FRANKFURT, fft-t1a-fnm-hcr01, 192.168.247.12, TE_1/1/1, 172.31.84.253,1000,  europe,6.09
+SINGAPORE2, si2-t1a-svqx-hcr01, 192.168.194.47, TE_5/2/2, 172.31.163.1,4410, TOKYO3, emi-t1a-cr01, 192.168.253.171, TenGigabitEthernet4/2, 172.31.163.2,4410,  apac,72
+LOS ANGELES, la-t1a-27gx-hpe01, 192.168.194.150, TE_5/1/13, 172.20.248.245,15, LOS ANGELES, la-t1a-cr02, 192.168.248.30, TenGigabitEthernet2/2, 172.20.248.246,15,  americas,  
+KUALALAMPUR, kl-t1a-kvdx-rt03, 192.168.201.138, GigabitEthernet0/0/0, 172.31.83.245,65535, KUALALAMPUR, kl-t1a-kvdx-hrt01, 192.168.201.139, GE_1/1/9, 172.31.83.246,65535,  apac,  
+TOKYO, tk-t1a-t0vx-hpe01, 192.168.253.173, TE_1/1/14, 172.31.30.233,15, TOKYO, tk-t1a-t0vx-hcr01, 192.168.253.174, TE_2/2/3, 172.31.30.234,15,  apac,  
+PARIS, par-t1a-p96x-hcr01, 192.168.194.137, GE_5/2/2, 172.31.247.90,15, PARIS, par-t1a-rt03, 192.168.246.69, GigabitEthernet3/0/3, 172.31.247.89,15,  europe,  
+SYDNEY, sy-t1a-rt01, 192.168.252.1, GigabitEthernet4/0/1, 172.31.103.53,11, SYDNEY, sy-t1a-rt03, 192.168.252.3, GigabitEthernet3/0/1, 172.31.103.54,11,  apac,  
+TOKYO, tk-t1a-t0vx-hcr01, 192.168.253.174, TE_2/1/4.105, 172.28.138.166,5800, HONGKONG, hk-t1a-cr02, 192.168.253.7, TenGigabitEthernet9/2.105, 172.28.138.165,5800,  apac,52
+SEOUL, seo-t1a-aicna-acn-rt01, 192.168.201.12, GigabitEthernet0/0/1, 172.31.205.29,65535, SEOUL, seo-t1a-aicna-acn-rt02, 192.168.201.13, GigabitEthernet0/0/1, 172.31.205.30,65535,  apac,  
+FRANKFURT, fft-t1a-fnmx-hcr02, 192.168.194.139, TE_1/2/1, 172.31.247.137,15, FRANKFURT, fft-t1a-fnm-hpe01, 192.168.254.39, TE_5/1/14, 172.31.247.138,15,  europe,  
+DUBLIN, dub-t1a-rt01, 192.168.246.80, GigabitEthernet3/0/1, 172.31.102.53,10, DUBLIN, dub-t1a-rt02, 192.168.246.81, GigabitEthernet3/0/1, 172.31.102.54,10,  europe,  
+MANCHESTER, man-t1a-ukux-hrt01, 192.168.194.186, GE_5/1/2, 172.31.207.121,25000, LONDON, ln-t1a-hcr01, 192.168.246.13, GE_2/1/8, 172.31.207.122,25000,  europe,8.27
+LONDON2, ln2-t1a-ldnx-hrt01, 192.168.246.186, TE_5/1/13, 172.31.143.45,10, LONDON, ln-t1a-rt11-PE, 192.168.246.4, TenGigabitEthernet7/1, 172.31.143.46,10,  europe,1
+SINGAPORE2, si2-t1a-svqx-hcr01, 192.168.194.47, TE_1/1/13, 172.31.253.129,10, SINGAPORE2, si2-t1a-svqx-hcr02, 192.168.194.48, TE_1/1/13, 172.31.253.130,10,  apac,  
+CRESSEX, crx-t1a-hw1x-hrt02, 192.168.194.45, TE_5/1/13, 172.28.140.150,10, CRESSEX, crx-t1a-hw1x-hrt99, 192.168.201.174, TE_2/1/13, 172.28.140.149,10,  europe,  
+LOS ANGELES, la-t1a-27gx-hpe01, 192.168.194.150, GE_5/1/1, 172.31.236.161,50, LOS ANGELES, la-t1a-cr02, 192.168.248.30, GigabitEthernet3/11, 172.31.236.162,50,  americas,  
+AMSTERDAM, am-t1a-hrt03, 192.168.246.100, TE_4/1/2, 172.29.217.197,1000, FRANKFURT, fft-t1a-fnm-hcr01, 192.168.247.12, TE_4/1/2, 172.29.217.198,1000,  europe,6.12
+NEW JERSEY, nj-t1a-njyx-hcr01, 192.168.194.212, TE_5/2/3, 172.31.202.106,100, NEW YORK, ny-t1a-cr03, 192.168.248.75, TenGigabitEthernet7/2, 172.31.202.105,100,  americas,1
+STOCKHOLM, sto-t1a-stkx-hrt01, 192.168.194.155, GE_1/3/6, 172.28.128.205,100, STOCKHOLM, sto-t1a-stkx-hrt02, 192.168.201.88, GE_1/1/11, 172.28.128.206,100,  europe,  
+NEW YORK, ny-t1a-rt05, 192.168.248.6, GigabitEthernet3/1/0, 172.31.36.77,65000, NEW YORK, ny-t1a-cr02, 192.168.248.74, GigabitEthernet3/3, 172.31.36.78,15,  americas,  
+SANTA CLARA, sc-t1a-cr03, 192.168.251.10, GigabitEthernet3/17, 172.23.250.130,15, SANTA CLARA, sc-t1a-s99x-hpe02, 192.168.251.11, GE_10/1/11, 172.23.250.129,15,  americas,  
+MAPUTO, map-t1a-1z9x-hrt01, 192.168.194.72, GE_1/3/1, 172.31.246.113,50000, JOHANNESBURG, jo-t1a-rt01, 192.168.246.16, GigabitEthernet7/0/3, 172.31.246.114,50000,  africa,8
+STOCKHOLM, sto-t1a-stkx-hrt01, 192.168.194.155, GE_1/3/4, 172.28.128.150,1000, COPENHAGEN, cop-t1a-acphb-hrt01, 192.168.201.99, GE_1/1/1, 172.28.128.149,1000,  europe,8.94
+SYDNEY, sy-t1a-1mhx-hrt02, 192.168.201.54, GE_5/1/3, 172.31.36.197,20000, AUCKLAND, auk-t1a-rt01, 192.168.252.16, GigabitEthernet0/0/2, 172.31.36.198,20000,  apac,  
+Vietnam2, vi2-t1a-yqlx-hrt01, 192.168.194.196, GE_1/1/15, 172.31.206.21,100, VIETNAM, vi-t1a-rt01, 192.168.251.108, GigabitEthernet1/0/3, 172.31.206.22,100,  apac,1
+FUJAIRAH, fuj-t1a-hrt01, 192.168.252.229, STM1_5/1/1, 172.29.217.233,6000, RIYADH, ryd-t1a-rt01, 192.168.252.232, POS3/1/1, 172.29.217.234,6000,  middleast,16
+LONDON2, ln2-t1a-ldnx-hrt02, 192.168.201.127, TE_3/2/2, 172.31.85.33,10, LONDON2, ln2-t1a-ldnx-hrt01, 192.168.246.186, TE_3/1/1, 172.31.85.34,10,  europe,  
+NEW JERSEY, nj-t1a-njyx-cr02, 192.168.194.4, GigabitEthernet7/0/0, 172.29.215.198,65535, NEW JERSEY, nj-t1a-njyx-hpe02, 192.168.248.41, GE_1/1/10, 172.29.215.197,65535,  americas,  
+MOSCOW, mos-t1a-rt02, 192.168.246.73, POS2/2/0, 172.31.26.246,4000, FRANKFURT, fft-t1a-fnm-hcr01, 192.168.247.12, STM4_4/2/1, 172.31.26.245,4000,  europe,44.9
+PARIS, par-t1a-p96x-hcr01, 192.168.194.137, TE_5/2/13, 172.31.84.145,2015, PARIS2, par2-t1a-pvux-hrt02, 192.168.194.239, TE_1/2/1, 172.31.84.146,2015,  europe,0.42
+NEW YORK, ny-t1a-cr03, 192.168.248.75, GigabitEthernet3/15, 172.29.215.77,15, NEW YORK, ny-t1a-n99x-hpe02, 192.168.248.79, GE_1/1/12, 172.29.215.78,15,  americas,  
+SINGAPORE2, si2-t1a-svqx-hcr01, 192.168.194.47, TE_5/2/1, 172.31.253.133,10, SINGAPORE2, si2-t1a-svqx-hcr02, 192.168.194.48, TE_5/2/1, 172.31.253.134,10,  apac,  
+DUBAI, du-t1a-rt01, 192.168.252.224, GigabitEthernet4/0/0, 172.31.103.113,10, DUBAI, du-t1a-rt03, 192.168.252.225, GigabitEthernet4/0/0, 172.31.103.114,10,  middleast,  
+ATLANTA, atl-t1a-a56x-hrt01, 192.168.194.149, TE_5/1/14, 172.31.197.49,1800, ASHBURN, ash-t1a-ae6x-hrt01, 92.168.194.135, TE_5/1/14, 172.31.197.50,1800,  americas,14.5
+HONGKONG, hk-t1a-rt02-PE, 192.168.189.2, GigabitEthernet4/0/2, 172.31.248.82,15, HONGKONG, hk-t1a-h99x-hcr01, 192.168.194.49, GE_5/1/4, 172.31.248.81,15,  apac,  
+SYDNEY2, sy2-t1a-0ppx-hrt01, 192.168.194.46, GE_5/1/4, 172.31.204.214,21000, AUCKLAND, auk-t1a-rt01, 192.168.252.16, GigabitEthernet1/0/2, 172.31.204.213,21000,  apac,  
+Durban, dur-t1a-eaox-hrt01, 192.168.194.175, GE_5/1/6, 172.28.128.57,65535, CAPE TOWN, cap-t1a-acpta-acn-rt02, 192.168.201.76, GigabitEthernet0/0/0, 172.28.128.58,65535,  africa,32
+NEW JERSEY, nj-t1a-njyx-hcr01, 192.168.194.212, TE_5/2/1, 172.28.147.82,10, NEW JERSEY, nj-t1a-njyx-hcr02, 192.168.201.196, TE_1/1/13, 172.28.147.81,10,  americas,  
+PARIS, par-t1a-p96x-hcr01, 192.168.194.137, GE_5/2/8, 172.31.84.89,50000, LISBON, lsb-t1a-pv9x-hrt01, 192.168.201.113, GE_1/6/1, 172.31.84.90,50000,  europe,33.6
+Durban, dur-t1a-eaox-hrt01, 192.168.194.175, GE_5/1/1, 172.31.207.45,2100, CAPE TOWN, cap-t1a-eagx-hrt02, 192.168.194.179, GE_5/1/1, 172.31.207.46,2100,  africa,28
+TOKYO, tk-t1a-t0vx-hcr02, 192.168.201.191, GE_1/1/12, 172.31.24.181,60000, TOKYO2, tk2-t1a-rt01, 192.168.253.88, GigabitEthernet1/0/1, 172.31.24.182,60000,  apac,1
+MAURITIUS, mau-t1a-rt02, 192.168.251.116, GigabitEthernet0/0/0, 172.31.25.58,10, MAURITIUS, mau-t1a-rt01, 192.168.253.170, GigabitEthernet0/0/0, 172.31.25.57,10,  africa,  
+SINGAPORE2, si2-t1a-svqx-hcr01, 192.168.194.47, GE_1/1/11, 172.28.139.14,3700, JAKARTA, jk-t1a-rt01, 192.168.253.73, GigabitEthernet1/2/0, 172.28.139.13,3700,  apac,13
+SYDNEY2, sy2-t1a-0ppx-hrt01, 192.168.194.46, TE_1/1/14, 172.28.139.2,10000, MELBOURNE2, mlb2-t1a-jn1x-hrt01, 192.168.194.70, TE_3/1/4, 172.28.139.1,10000,  apac,11.7
+MIAMI, mia-t1a-rt01, 192.168.248.22, POS2/2/0, 172.31.12.101,3500, DALLAS, da-t1a-rt03, 192.168.251.35, POS8/0/0, 172.31.12.102,3500,  americas,28
+CHICAGO, ch-t1a-rt01, 192.168.184.33, GigabitEthernet4/0/0, 192.168.38.113,6, CHICAGO, ch-t1a-rt03, 192.168.248.21, GigabitEthernet3/0/0, 192.168.38.114,1,  americas,  
+TORONTO, tor-t1a-t6ux-hrt01, 192.168.194.144, GE_2/2/1, 172.28.146.113,65535, TORONTO, tor-t1a-t6ux-rt02, 192.168.201.185, GigabitEthernet0/1/1, 172.28.146.114,65535,  americas,  
+NEW YORK, ny-t1a-n99x-hcr01, 192.168.194.136, TE_1/1/14, 172.31.197.89,10, NEW YORK, ny-t1a-cr03, 192.168.248.75, TenGigabitEthernet2/2, 172.31.197.90,10,  americas,  
+ASHBURN, ash-t1a-ae6x-rt04, 192.168.201.188, GigabitEthernet1/0/1, 172.28.146.245,15, ASHBURN, ash-t1a-ae6x-hrt01, 92.168.194.135, GE_3/2/12, 172.28.146.246,15,  americas,  
+NEW YORK, ny-t1a-n99x-hcr01, 192.168.194.136, GE_1/1/6, 172.20.248.229,60000, BOSTON, bos-t1a-rt01, 192.168.248.38, GigabitEthernet0/0/2, 172.20.248.230,60000,  americas,7
+TOKYO, tk-t1a-t0vx-hpe02, 192.168.201.35, TE_1/1/13, 172.31.205.186,15, TOKYO, tk-t1a-t0vx-hcr01, 192.168.253.174, TE_2/1/1, 172.31.205.185,15,  apac,  
+TORONTO, tor-t1a-t6ux-hrt01, 192.168.194.144, GE_5/1/11, 172.31.236.45,10, TORONTO, tor-t1a-rt02, 192.168.248.66, ge-3/1/0.0, 172.31.236.46,10,  americas,  
+Seattle2, sea2-t1a-emsx-hrt01, 192.168.194.194, TE_1/1/14, 172.31.236.185,65535, SEATTLE, sea-t1a-00sx-hpe01, 192.168.250.193, TE_5/1/13, 172.31.236.186,65535,  americas,0.31
+LONDON, ln-t1a-hcr01, 192.168.246.13, STM4_4/2/2, 172.31.26.165,4700, MOSCOW, mos-t1a-rt01, 192.168.246.72, POS2/2/0, 172.31.26.166,4700,  europe,56
+TOKYO, tk-t1a-t0vx-hcr01, 192.168.253.174, GE_1/1/8, 172.31.163.114,20000, OSAKA, osa-t1a-rt01, 192.168.253.41, GigabitEthernet2/0/4, 172.31.163.113,20000,  apac,4
+LONDON2, ln2-t1a-ldnx-hrt02, 192.168.201.127, TE_3/2/3, 172.31.143.41,15, LONDON, ln-t1a-rt11-PE, 192.168.246.4, TenGigabitEthernet3/1, 172.31.143.42,15,  europe,1
+SINGAPORE, si-t1a-hcr01, 192.168.250.14, GE_2/1/3, 172.31.100.193,15, SINGAPORE, si-t1a-svwx-rt07-asbr, 192.168.250.30, GigabitEthernet0/3, 172.31.100.194,15,  apac,  
+OSAKA, osa-t1a-rt01, 192.168.253.41, GigabitEthernet3/0/1, 192.168.37.245,10, OSAKA, osa-t1a-rt02, 192.168.253.42, GigabitEthernet2/0/1, 192.168.37.246,10,  apac,  
+MANILA, mla-t1a-p98x-hrt01, 192.168.201.145, GE_2/1/7, 172.28.129.129,10, MANILA, mla-t1a-p98x-rt03, 192.168.201.153, GigabitEthernet0/0/0, 172.28.129.130,10,  apac,  
+TORONTO, tor-t1a-rt02, 192.168.248.66, ge-2/1/0.0, 172.31.122.146,10, TORONTO, tor-t1a-rt01, 192.168.248.67, ge-2/1/0.0, 172.31.122.145,10,  americas,  
+DALLAS, da-t1a-rt01, 192.168.187.33, GigabitEthernet2/2/2, 172.23.182.221,100, DALLAS, da-t1a-d0vx-hpe01, 192.168.247.23, GE_2/2/13, 172.23.182.222,100,  americas,  
+KUALALAMPUR, kl-t1a-kkzx-acn-rt01, 192.168.194.189, GigabitEthernet0/2/1, 172.31.206.122,50000, KUALALAMPUR, kl-t1a-kvdx-hrt01, 192.168.201.139, GE_1/1/10, 172.31.206.121,50000,  apac,  
+TOKYO, tk-t1a-t0vx-hcr02, 192.168.201.191, TE_3/1/2, 172.31.142.190,10, TOKYO, tk-t1a-t0vx-hcr01, 192.168.253.174, TE_5/1/14, 172.31.142.189,10,  apac,  
+LONDON, ln-t1a-rt06-CE, 192.168.182.7, GigabitEthernet0/3, 172.31.37.18,100, LONDON, ln-t1a-rt04-PE, 192.168.246.6, GigabitEthernet1/30, 172.31.37.17,65000,  europe,  
+NEW YORK, ny-t1a-cr03, 192.168.248.75, TenGigabitEthernet4/2, 172.28.147.34,65535, NEW YORK, ny-t1a-n99x-hpe01, 192.168.248.78, TE_10/1/14, 172.28.147.33,65535,  americas,  
+SINGAPORE2, si2-t1a-svqx-hcr01, 192.168.194.47, GE_1/1/5, 172.31.36.210,15, SINGAPORE2, si2-t1a-rt02, 192.168.250.11, GigabitEthernet7/2, 172.31.36.209,15,  apac,  
+SYDNEY, sy-t1a-m3hx-hrt01, 192.168.194.43, GE_5/1/9, 172.31.248.49,10, SYDNEY, sy-t1a-rt01, 192.168.252.1, GigabitEthernet4/1/2, 172.31.248.50,10,  apac,  
+SYDNEY, sy-t1a-1mhx-hrt02, 192.168.201.54, STM16_1/2/1, 172.31.206.154,12800, TOKYO, tk-t1a-t0vx-hcr01, 192.168.253.174, STM16_1/2/4, 172.31.206.153,12800,  apac,99.6
+CHICAGO, ch-t1a-ct8x-hpe01, 192.168.200.17, TE_5/1/13, 172.31.236.178,1800, DALLAS, da-t1a-rt03, 192.168.251.35, TenGigabitEthernet4/1, 172.31.236.177,1800,  americas,20
+Israel, isl-t1a-xxgx-hrt01, 192.168.194.235, GE_2/1/19, 172.31.185.49,65535, Israel, isl-t1a-atlva-acn-rt01, 192.168.201.31, GigabitEthernet0/0/0, 172.31.185.50,65535,  apac,  
+SINGAPORE, si-t1a-svwx-hcr02, 192.168.194.131, GE_1/1/6, 172.28.138.14,4000, KUALALAMPUR2, kl2-t1a-kt1x-hrt01, 192.168.194.74, GE_5/1/3, 172.28.138.13,4000,  apac,10.4
+HONGKONG, hk-t1a-h99x-hcr01, 192.168.194.49, TE_5/1/13, 172.31.238.206,15, HONGKONG, hk-t1a-h99x-hpe01, 192.168.194.50, TE_10/1/13, 172.31.238.205,15,  apac,  
+Israel, isl-t1a-atlva-acn-rt01, 192.168.201.31, GigabitEthernet0/1/0, 172.31.185.29,10, Israel, isl-t1a-atlva-acn-rt02, 192.168.201.33, GigabitEthernet0/1/0, 172.31.185.30,10,  apac,  
+NEW JERSEY, nj-t1a-njyx-hcr02, 192.168.201.196, TE_1/2/1, 172.28.147.85,10, NEW JERSEY, nj-t1a-njyx-hpe01, 192.168.248.40, TE_3/2/3, 172.28.147.86,10,  americas,  
+ASHBURN, ash-t1a-ae6x-hrt03, 192.168.201.187, TE_2/2/1, 172.28.146.209,10, ASHBURN, ash-t1a-ae6x-hrt01, 92.168.194.135, TE_5/1/13, 172.28.146.210,10,  americas,  
+NEW JERSEY, nj-t1a-njyx-cr02, 192.168.194.4, TenGigabitEthernet2/1, 172.31.24.249,5000, LOS ANGELES, la-t1a-cr02, 192.168.248.30, TenGigabitEthernet2/1, 172.31.24.250,5000,  americas,68
+LOS ANGELES, la-t1a-27gx-hpe01, 192.168.194.150, TE_2/2/3, 172.28.146.158,65535, LOS ANGELES, la-t1a-27gx-hcr01, 192.168.194.229, TE_5/1/1, 172.28.146.157,65535,  americas,  
+LOS ANGELES, la-t1a-rt02, 192.168.248.18, GigabitEthernet3/0/0, 172.31.36.249,15, LOS ANGELES, la-t1a-cr01, 192.168.248.28, GigabitEthernet3/2, 172.31.36.250,15,  americas,  
+Johannesburg2, job2-t1a-jhbx-hrt01, 192.168.194.177, GE_5/1/1, 172.31.207.105,2000, Johannesburg, job-t1a-eopx-hrt01, 192.168.194.182, GE_1/1/1, 172.31.207.106,2000,  africa,0.95
+Narita, nar-t1a-anrt1x-acn-rt01, 192.168.194.237, GigabitEthernet0/0/0.1401, 172.31.204.202,65535, TOKYO, tk-t1a-t0vx-hcr01, 192.168.253.174, GE_5/1/10.1401, 172.31.204.201,65535,  apac,3.04
+FRANKFURT2, fft2-t1a-feqx-hrt01, 192.168.194.195, GE_5/1/1, 172.31.207.145,65535, FRANKFURT2, fft2-t1a-feq-rt02, 192.168.247.9, GigabitEthernet7/1, 172.31.207.146,65535,  europe,  
+DALLAS, da-t1a-d0vx-hpe01, 192.168.247.23, TE_1/1/13, 172.23.182.218,10, DALLAS, da-t1a-rt03, 192.168.251.35, TenGigabitEthernet4/2, 172.23.182.217,10,  americas,  
+HONGKONG, hk-t1a-h99x-hpe02, 192.168.201.121, GE_1/1/8, 172.31.83.93,15, HONGKONG, hk-t1a-rt08-PE, 192.168.253.16, GigabitEthernet4/5, 172.31.83.94,15,  apac,  
+SINGAPORE, tcx-t1a-ih4x-hrt02, 192.168.201.43, GE_2/1/25, 172.31.191.1,10, SINGAPORE, tcx-t1a-ih4x-hrt01, 192.168.201.5, GE_2/1/25, 172.31.191.2,10,  apac,  
+SANTA CLARA, sc-t1a-sv1x-hcr01, 192.168.194.203, TE_1/1/13, 172.31.24.126,5000, NEW YORK, ny-t1a-cr03, 192.168.248.75, TenGigabitEthernet7/1, 172.31.24.125,5000,  americas,60
+Johannesburg2, job2-t1a-jhbx-hrt01, 192.168.194.177, GE_1/1/4, 172.28.131.218,50000, MAPUTO, map-t1a-1z9x-hrt01, 192.168.194.72, GE_1/7/3, 172.28.131.217,50000,  africa,18.1
+KAMPALA, kam-t1a-hrt01, 192.168.246.17, GE_1/1/2, 172.23.182.153,65000, DAR-E-SALAAM, dar-t1a-hrt01, 192.168.246.21, GE_1/7/2, 172.23.182.154,65000,  africa,30.2
+PARIS, par-t1a-p96x-hcr01, 192.168.194.137, TE_2/2/3, 172.31.247.174,15, PARIS, par-t1a-pv0x-hpe01, 192.168.194.34, TE_1/1/14, 172.31.247.173,15,  europe,  
+LOS ANGELES, la-t1a-cr01, 192.168.248.28, GigabitEthernet3/16, 172.28.146.1,20, LOS ANGELES, la-t1a-cr02, 192.168.248.30, GigabitEthernet3/16, 172.28.146.2,20,  americas,  
+SINGAPORE2, si2-t1a-svqx-hcr02, 192.168.194.48, GE_1/1/5, 192.168.37.150,15, SINGAPORE2, si2-t1a-rt01, 192.168.250.10, GigabitEthernet3/0/1, 192.168.37.149,15,  apac,  
+BUDAPEST, bud-t1a-rt01, 192.168.246.88, GigabitEthernet3/0/0, 172.31.102.89,10, BUDAPEST, bud-t1a-rt02, 192.168.246.89, GigabitEthernet3/0/0, 172.31.102.90,10,  europe,  
+CAPE TOWN, cap-t1a-eagx-hrt01, 192.168.194.178, GE_1/1/4, 172.31.194.13,10, CAPE TOWN, cap-t1a-rt01, 192.168.246.136, GigabitEthernet0/3, 172.31.194.14,10,  africa,  
+Vietnam2, vi2-t1a-yqlx-hrt01, 192.168.194.196, GE_2/1/25, 172.31.82.173,65535, VIETNAM, vi-t1a-asgna-acn-rt02, 192.168.201.112, GigabitEthernet0/0/0, 172.31.82.174,65535,  apac,1
+LONDON, ln-t1a-l78x-hcr02, 192.168.194.138, GE_1/1/3, 59.163.16.157,100, LONDON, ln-t1a-rt05, 192.168.246.15, GigabitEthernet3/0/0, 59.163.16.158,100,  europe,  
+FRANKFURT2, fft2-t1a-feqx-hrt01, 192.168.194.195, TE_2/1/14, 172.31.84.198,10, FRANKFURT2, fft2-t1a-feq-rt02, 192.168.247.9, TenGigabitEthernet8/2, 172.31.84.197,10,  europe,  
+MELBOURNE2, mlb2-t1a-jn1x-hrt01, 192.168.194.70, TE_2/2/14, 172.28.138.77,200, MELBOURNE, mlb-t1a-1mex-hrt01, 192.168.201.84, TE_5/1/14, 172.28.138.78,200,  apac,0.37
+SYDNEY, sy-t1a-m3hx-hrt01, 192.168.194.43, TE_5/1/13, 172.31.191.238,10, SYDNEY, sy-t1a-1mhx-hrt02, 192.168.201.54, TE_3/1/13, 172.31.191.237,10,  apac,  
+HELSINKI, hel1-t1a-hrt01, 192.168.246.22, GE_2/1/2, 172.31.194.117,4100, FRANKFURT, fft-t1a-fnm-hcr01, 192.168.247.12, GE_2/1/9, 172.31.194.118,4100,  europe,24.5
+PARIS, par-t1a-p96x-hcr01, 192.168.194.137, TE_5/2/14, 172.31.207.177,1000, LONDON, ln-t1a-hcr01, 192.168.246.13, TE_3/1/14, 172.31.207.178,1000,  europe,7.9
+FRANKFURT, fft-t1a-fnmx-hcr02, 192.168.194.139, GE_5/1/7, 172.31.246.141,3900, WARSAW, wa-t1a-wznx-hrt01, 192.168.201.178, GE_1/1/11, 172.31.246.142,3900,  europe,13.5
+SYDNEY, sy-t1a-m3hx-hrt01, 192.168.194.43, TE_1/1/13, 172.31.191.254,10, SYDNEY, sy-t1a-1mhx-hrt02, 192.168.201.54, TE_1/1/13, 172.31.191.253,10,  apac,  
+MADRID, ma-t1a-wv6x-hrt01, 192.168.194.22, GE_3/2/20, 172.31.85.229,10000, PARIS, par-t1a-pv0x-hpe01, 192.168.194.34, GE_2/2/20, 172.31.85.230,10000,  europe,26.2
+SINGAPORE2, si2-t1a-svqx-hcr02, 192.168.194.48, GE_2/2/4, 172.31.205.206,15, SINGAPORE2, si2-t1a-svqx-hpe01, 192.168.201.36, GE_3/1/13, 172.31.205.205,15,  apac,  
+ATLANTA, atl-t1a-a56x-hrt01, 192.168.194.149, TE_5/1/13, 172.31.197.117,1, ATLANTA, atl-t1a-rt02, 192.168.248.19, TenGigabitEthernet7/1, 172.31.197.118,1,  americas,  
+LONDON, ln-t1a-hcr01, 192.168.246.13, TE_4/1/4, 172.28.141.41,15, LONDON, ln-t1a-l78x-hpe02, 192.168.246.171, TE_3/1/13, 172.28.141.42,15,  europe,  
+CHICAGO, ch-t1a-rt01, 192.168.184.33, GigabitEthernet7/1/3, 172.23.250.26,100, CHICAGO, ch-t1a-ct8x-hpe01, 192.168.200.17, GE_1/1/1, 172.23.250.25,100,  americas,  
+MIAMI, mia-t1a-mlnx-hpe02, 192.168.194.148, GE_1/1/10, 172.28.147.54,65535, ATLANTA, atl-t1a-a56x-rt04, 192.168.201.201, GigabitEthernet0/0/1, 172.28.147.53,65535,  americas,  
+SINGAPORE, si-t1a-hcr01, 192.168.250.14, TE_2/2/4:101, 172.28.138.138,5500, TOKYO, tk-t1a-t0vx-hcr01, 192.168.253.174, TE_2/1/3:101, 172.28.138.137,5500,  apac,65.4
+ATLANTA, atl-t1a-a56x-hrt01, 192.168.194.149, TE_1/1/13, 172.31.197.113,1, ATLANTA, atl-t1a-rt02, 192.168.248.19, TenGigabitEthernet4/1, 172.31.197.114,1,  americas,  
+NEW JERSEY, nj-t1a-njyx-hcr02, 192.168.201.196, TE_3/1/1, 172.28.147.89,10, NEW JERSEY, nj-t1a-njyx-hpe02, 192.168.248.41, TE_1/1/14, 172.28.147.90,10,  americas,  
+NEW YORK, ny-t1a-rt01, 192.168.248.2, GigabitEthernet4/0/1, 172.31.27.246,15, NEW YORK, ny-t1a-cr02, 192.168.248.74, GigabitEthernet3/7, 172.31.27.245,15,  americas,  
+AMSTERDAM, am-t1a-a99x-hrt01, 192.168.194.28, TE_5/1/13, 172.31.247.61,15, AMSTERDAM, am-t1a-hrt03, 192.168.246.100, TE_1/1/14, 172.31.247.62,15,  europe,  
+TOKYO3, emi-t1a-cr01, 192.168.253.171, POS1/1/0, 172.31.25.210,20000, TOKYO2, tk2-t1a-rt01, 192.168.253.88, POS1/1/1, 172.31.25.209,20000,  apac,2
+MANILA, mla-t1a-p98x-hrt02, 192.168.201.144, GE_1/1/9, 172.28.129.153,10, MANILA, mla-t1a-p98x-rt03, 192.168.201.153, GigabitEthernet1/0/2, 172.28.129.154,10,  apac,  
+ASHBURN, ash-t1a-ae6x-hrt03, 192.168.201.187, GE_1/1/9, 172.28.146.226,15, ASHBURN, ash-t1a-ae6x-rt04, 192.168.201.188, GigabitEthernet0/0/3, 172.28.146.225,15,  americas,  
+NEW YORK, ny-t1a-cr03, 192.168.248.75, GigabitEthernet3/14, 172.29.215.73,15, NEW YORK, ny-t1a-n99x-hpe02, 192.168.248.79, GE_1/1/11, 172.29.215.74,15,  americas,  
+SINGAPORE2, si2-t1a-svqx-hcr01, 192.168.194.47, STM1_1/2/1, 172.31.25.161,3800, JAKARTA, jk-t1a-rt01, 192.168.253.73, POS1/1/0, 172.31.25.162,3800,  apac,  
+NEW YORK, ny-t1a-rt01, 192.168.248.2, GigabitEthernet3/1/0, 172.31.24.17,15, NEW YORK, ny-t1a-cr02, 192.168.248.74, GigabitEthernet3/1, 172.31.24.18,15,  americas,  
+SINGAPORE, si-t1a-svwx-hcr02, 192.168.194.131, TE_1/1/13, 172.25.85.57,400, SINGAPORE2, si2-t1a-svqx-hcr02, 192.168.194.48, TE_1/1/14, 172.25.85.58,400,  apac,0.63
+LONDON, ln-t1a-l78x-hcr02, 192.168.194.138, TE_5/2/1, 172.31.24.178,10, LONDON, ln-t1a-hcr01, 192.168.246.13, TE_2/1/14, 172.31.24.177,10,  europe,  
+JAKARTA, jk-t1a-acgka-acn-rt01, 192.168.201.69, GigabitEthernet0/1/0, 172.31.163.65,10, JAKARTA, jk-t1a-acgka-acn-rt02, 192.168.201.70, GigabitEthernet0/1/0, 172.31.163.66,10,  apac,  
+LOS ANGELES, la-t1a-27gx-hpe01, 192.168.194.150, GE_1/1/1, 172.31.236.153,50, LOS ANGELES, la-t1a-cr01, 192.168.248.28, GigabitEthernet3/3, 172.31.236.154,50,  americas,  
+GABORONE, gab-t1a-7b6x-hrt01, 192.168.194.71, GE_1/7/3, 172.31.246.61,50000, HARARE, har-t1a-hrt01, 192.168.246.18, GE_1/7/3, 172.31.246.62,50000,  africa,17.3
+NEW YORK, ny-t1a-rt01, 192.168.248.2, GigabitEthernet3/1/2, 172.31.36.13,15, NEW YORK, ny-t1a-cr03, 192.168.248.75, GigabitEthernet3/1, 172.31.36.14,15,  americas,  
+Narita, nar-t1a-anrt1x-acn-rt01, 192.168.194.237, GigabitEthernet0/1/0, 172.26.11.73,65535, Narita, nar-t1a-anrt1x-acn-rt02, 192.168.194.238, GigabitEthernet0/1/0, 172.26.11.74,65535,  apac,  
+CAPE TOWN, cap-t1a-rt01, 192.168.246.136, GigabitEthernet0/1, 192.168.37.105,10, CAPE TOWN, cap-t1a-rt02, 192.168.246.137, GigabitEthernet0/1, 192.168.37.106,10,  africa,  
+NEW JERSEY, nj-t1a-njyx-hcr01, 192.168.194.212, TE_5/1/4:541, 172.31.27.133,64000, SEATTLE, sea-t1a-00sx-hpe01, 192.168.250.193, TE_5/1/14:541, 172.31.27.134,64000,  americas,64.2
+SINGAPORE2, si2-t1a-svqx-hcr02, 192.168.194.48, GE_1/1/1, 172.31.59.250,3700, KUALALAMPUR, kl-t1a-kvdx-hrt01, 192.168.201.139, GE_1/1/6, 172.31.59.249,3700,  apac,8.25
+LOS ANGELES, la-t1a-cr01, 192.168.248.28, TenGigabitEthernet2/1, 172.31.24.26,800, SANTA CLARA, sc-t1a-cr03, 192.168.251.10, TenGigabitEthernet2/1, 172.31.24.25,800,  americas,12
+SINGAPORE2, si2-t1a-svqx-hcr01, 192.168.194.47, GE_1/1/6, 172.31.206.41,40000, DHAKA, dha-t1a-rt01, 192.168.253.83, GigabitEthernet1/0/1, 172.31.206.42,40000,  apac,50
+TOKYO, tk-t1a-t0vx-hcr02, 192.168.201.191, TE_1/1/14, 172.28.139.66,15, TOKYO, tk-t1a-t0vx-hpe02, 192.168.201.35, TE_5/1/13, 172.28.139.65,15,  apac,  
+SANTA CLARA, sc-t1a-cr03, 192.168.251.10, GigabitEthernet3/12, 172.23.250.110,15, SANTA CLARA, sc-t1a-s99x-hpe01, 192.168.251.17, GE_1/1/11, 172.23.250.109,15,  americas,  
+STOCKHOLM, sto-t1a-stkx-hrt02, 192.168.201.88, GE_2/1/43, 172.28.128.214,100, STOCKHOLM, sto-t1a-rt04, 192.168.254.63, GigabitEthernet1/0/1, 172.28.128.213,100,  europe,  
+HONGKONG2, hk2-t1a-kthx-hrt01, 192.168.194.185, TE_5/1/13, 172.28.138.42,4000, SINGAPORE2, si2-t1a-svqx-hcr01, 192.168.194.47, TE_5/2/3, 172.28.138.41,4000,  apac,  
+Johannesburg2, job2-t1a-jhbx-hrt01, 192.168.194.177, GE_5/1/4, 172.28.131.214,50000, NAMIBIA, nam-t1a-xtnx-hrt01, 192.168.246.172, GE_1/10/1, 172.28.131.213,50000,  africa,32.8
+DHAKA, dha-t1a-ad8x-rt99, 192.168.201.195, GigabitEthernet1/0/0, 172.28.139.110,65535, DHAKA, dha-t1a-rt01, 192.168.253.83, GigabitEthernet0/0/2, 172.28.139.109,65535,  apac,  
+HIGH BRIDGE, hbg-t1a-hb9x-hrt01, 192.168.194.13, TE_2/2/4, 172.28.141.194,10, HIGH BRIDGE, hbg-t1a-hb9x-hrt02, 192.168.201.197, TE_5/1/13, 172.28.141.193,10,  europe,  
+DUBAI, du-t1a-rt01, 192.168.252.224, POS9/0/0, 172.29.213.214,1000, FUJAIRAH, fuj-t1a-hrt01, 192.168.252.229, STM4_5/1/11, 172.29.213.213,1000,  middleast,3.4
+HONGKONG2, hk2-t1a-kthx-hrt01, 192.168.194.185, TE_1/1/13, 172.31.239.241,100, HONGKONG2, hk2-t1a-rt01, 192.168.253.12, TenGigabitEthernet8/2, 172.31.239.242,100,  apac,  
+LONDON, ln-t1a-hcr01, 192.168.246.13, TE_4/1/1, 172.29.217.150,4200, HELSINKI2, hel2-t1a-hrt01, 192.168.246.23, TE_2/1/13, 172.29.217.149,4200,  europe,33.2
+PERTH, per-t1a-h9ux-hrt01, 192.168.194.57, GE_5/1/10, 172.31.248.13,12500, SINGAPORE, si-t1a-hcr01, 192.168.250.14, GE_2/1/10, 172.31.248.14,12500,  apac,48.7
+MANILA, mla-t1a-p98x-hrt01, 192.168.201.145, GE_2/1/9, 172.31.82.125,10, MANILA, mla-t1a-p98x-rt03, 192.168.201.153, GigabitEthernet0/0/1, 172.31.82.126,10,  apac,  
+HONGKONG, hk-t1a-rt08-PE, 192.168.253.16, GigabitEthernet1/0/2, 172.31.25.201,15, HONGKONG, hk-t1a-cr02, 192.168.253.7, GigabitEthernet7/0/2, 172.31.25.202,15,  apac,  
+SYDNEY2, sy2-t1a-0ppx-hrt01, 192.168.194.46, GE_1/1/11, 172.28.129.249,110, SYDNEY, sy-t1a-1mhx-hrt02, 192.168.201.54, GE_1/1/3, 172.28.129.250,110,  apac,1.73
+NEW YORK, ny-t1a-n99x-hcr01, 192.168.194.136, TE_5/1/14, 172.31.251.245,15, NEW YORK, ny-t1a-n99x-hpe02, 192.168.248.79, TE_1/1/13, 172.31.251.246,15,  americas,  
+DOHA2, doh2-t1a-un4x-hrt01, 192.168.194.41, STM4_1/2/9, 172.31.253.89,500, DOHA, doh-t1a-rt01, 192.168.252.240, POS0/2/0, 172.31.253.90,500,  middleast,1
+HONGKONG2, hk2-t1a-kthx-hrt01, 192.168.194.185, TE_1/1/14, 172.31.163.198,10, HONGKONG2, hk2-t1a-kthx-hrt02, 192.168.201.73, TE_1/1/13, 172.31.163.197,10,  apac,  
+FRANKFURT, fft-t1a-fnm-hcr01, 192.168.247.12, TE_3/1/14, 172.26.11.217,15, FRANKFURT, fft-t1a-fnm-hpe01, 192.168.254.39, TE_2/1/13, 172.26.11.218,15,  europe,  
+ISTANBUL, ist-t1a-rt01, 192.168.246.112, GigabitEthernet3/0/2, 172.25.74.198,10000, FRANKFURT, fft-t1a-fnm-hcr01, 192.168.247.12, GE_2/1/5, 172.25.74.197,10000,  europe,42.1
+NEW YORK, ny-t1a-cr03, 192.168.248.75, GigabitEthernet3/16, 172.29.215.81,15, NEW YORK, ny-t1a-n99x-hpe02, 192.168.248.79, GE_10/1/11, 172.29.215.82,15,  americas,  
+LONDON, ln-t1a-hcr01, 192.168.246.13, TE_2/1/13, 172.23.182.5,15, LONDON, ln-t1a-l78x-hpe01, 192.168.246.170, TE_1/1/13, 172.23.182.6,15,  europe,  
+HELSINKI, hel1-t1a-hrt01, 192.168.246.22, GE_4/1/7, 172.31.84.138,100, HELSINKI2, hel2-t1a-hrt01, 192.168.246.23, GE_4/1/6, 172.31.84.137,100,  europe,0.58
+SINGAPORE2, si2-t1a-svqx-hcr01, 192.168.194.47, GE_1/1/4, 172.31.248.253,15, SINGAPORE2, si2-t1a-rt02, 192.168.250.11, GigabitEthernet7/3, 172.31.248.254,15,  apac,  
+NEW YORK, ny-t1a-n99x-hpe01, 192.168.248.78, TE_10/1/13, 172.31.251.209,15, NEW YORK, ny-t1a-n99x-hpe02, 192.168.248.79, TE_10/1/13, 172.31.251.210,15,  americas,  
+MAURITIUS, mau-t1a-rt02, 192.168.251.116, GigabitEthernet1/0/0, 172.31.25.62,10, MAURITIUS, mau-t1a-rt01, 192.168.253.170, GigabitEthernet1/0/0, 172.31.25.61,10,  africa,  
+PARIS, par-t1a-p96x-hcr02, 192.168.201.120, GE_1/1/1, 172.28.128.101,15, PARIS, par-t1a-rt03, 192.168.246.69, GigabitEthernet2/1/3, 172.28.128.102,15,  europe,  
+SINGAPORE2, si2-t1a-svqx-hcr01, 192.168.194.47, TE_5/2/4, 172.31.205.210,15, SINGAPORE2, si2-t1a-svqx-hpe02, 192.168.201.37, TE_1/1/13, 172.31.205.209,15,  apac,  
+LONDON, ln-t1a-l78x-hcr02, 192.168.194.138, TE_2/2/4, 172.28.140.254,10, LONDON, ln-t1a-hcr01, 192.168.246.13, TE_4/1/2, 172.28.140.253,10,  europe,  
+TOKYO, tk-t1a-t0vx-hcr02, 192.168.201.191, TE_1/1/13, 172.31.16.169,200, TOKYO3, emi-t1a-cr01, 192.168.253.171, TenGigabitEthernet7/1, 172.31.16.170,200,  apac,1
+NEW JERSEY, nj-t1a-njyx-hcr01, 192.168.194.212, GE_1/1/10, 172.31.197.245,100, NEW JERSEY, nj-t1a-njyx-cr02, 192.168.194.4, GigabitEthernet7/0/2, 172.31.197.246,100,  americas,  
+LONDON, ln-t1a-l78x-hcr02, 192.168.194.138, TE_2/2/2, 172.31.26.226,500, AMSTERDAM, am-t1a-a99x-hrt01, 192.168.194.28, TE_1/1/13, 172.31.26.225,500,  europe,5.4
+TORONTO, tor-t1a-t6ux-hrt01, 192.168.194.144, GE_1/1/11, 172.31.236.41,10, TORONTO, tor-t1a-rt01, 192.168.248.67, ge-3/1/0.0, 172.31.236.42,10,  americas,  
+TORONTO, tor-t1a-t6ux-hrt01, 192.168.194.144, GE_1/1/5, 172.28.146.129,65535, TORONTO, tor-t1a-t6ux-rt02, 192.168.201.185, GigabitEthernet0/0/0, 172.28.146.130,65535,  americas,  
+MANILA, mla-t1a-p98x-hrt02, 192.168.201.144, TE_1/1/13, 172.28.129.169,10, MANILA, mla-t1a-p98x-hrt01, 192.168.201.145, TE_1/1/13, 172.28.129.170,10,  apac,  
+NEW YORK, ny-t1a-n99x-hcr01, 192.168.194.136, GE_5/1/3, 172.31.236.17,15, NEW YORK, ny-t1a-rt02, 192.168.248.3, GigabitEthernet1/10, 172.31.236.18,15,  americas,  
+MANCHESTER, man-t1a-ukux-hrt01, 192.168.194.186, GE_1/1/6, 172.31.207.13,25000, AMSTERDAM, am-t1a-hrt03, 192.168.246.100, GE_1/1/6, 172.31.207.14,25000,  europe,14.5
+STOCKHOLM, sto-t1a-stkx-hrt01, 192.168.194.155, GE_1/7/5, 172.31.84.122,100, STOCKHOLM, sto-t1a-stkx-hrt02, 192.168.201.88, GE_2/1/41, 172.31.84.121,100,  europe,  
+CAPE TOWN, cap-t1a-acpta-acn-rt01, 192.168.201.75, GigabitEthernet0/0/1, 172.28.128.45,65535, CAPE TOWN, cap-t1a-acpta-acn-rt02, 192.168.201.76, GigabitEthernet0/0/1, 172.28.128.46,65535,  africa,  
+HONGKONG, hk-t1a-h99x-hcr01, 192.168.194.49, TE_1/1/13, 172.31.248.85,10, HONGKONG, hk-t1a-cr02, 192.168.253.7, TenGigabitEthernet3/1, 172.31.248.86,10,  apac,  
+LOS ANGELES, la-t1a-27gx-hcr01, 192.168.194.229, GE_1/1/2, 172.28.146.169,65535, LOS ANGELES, la-t1a-rt02, 192.168.248.18, GigabitEthernet7/1/4, 172.28.146.170,65535,  americas,  
+HONGKONG, hk-t1a-rt02-PE, 192.168.189.2, GigabitEthernet2/4.299, 172.31.204.133,65000, SINGAPORE, si-t1a-svwx-hpe02, 192.168.250.15, TE_1/1/13:299, 172.31.204.134,65535,  apac,37.7
+Durban, dur-t1a-eaox-hrt01, 192.168.194.175, GE_1/1/1, 172.31.207.38,4100, Johannesburg2, job2-t1a-jhbx-hrt01, 192.168.194.177, GE_1/1/1, 172.31.207.37,4100,  africa,8.52
+HONGKONG, hk-t1a-h99x-hcr01, 192.168.194.49, GE_1/1/4, 172.31.253.217,15, HONGKONG, hk-t1a-rt09-ASBR, 192.168.253.8, GigabitEthernet0/1/2, 172.31.253.218,15,  apac,  
+HONGKONG, hk-t1a-h99x-hcr01, 192.168.194.49, TE_4/1/3, 172.31.83.233,4300, SEOUL2, seo2-t1a-OO7x-hrt01, 192.168.194.76, TE_1/1/14, 172.31.83.234,4300,  apac,51
+TOKYO, tk-t1a-t0vx-hcr02, 192.168.201.191, TE_3/1/1, 172.28.139.62,15, TOKYO, tk-t1a-t0vx-hpe01, 192.168.253.173, TE_3/1/3, 172.28.139.61,15,  apac,  
+NEW YORK, ny-t1a-n99x-hcr01, 192.168.194.136, GE_1/1/12, 172.31.122.29,15, NEW YORK, ny-t1a-rt04, 192.168.248.7, GigabitEthernet0/1, 172.31.122.30,15,  americas,  
+JOHANNESBURG, jo-t1a-ajnba-acn-rt02, 192.168.201.80, GigabitEthernet0/1/0, 172.28.128.94,65535, JOHANNESBURG, jo-t1a-ajnba-acn-rt01, 192.168.201.82, GigabitEthernet0/1/0, 172.28.128.93,65535,  africa,  
+SINGAPORE, si-t1a-hcr01, 192.168.250.14, TE_2/1/14, 172.31.30.117,15, SINGAPORE, si-t1a-svwx-hpe01, 192.168.250.16, TE_1/1/13, 172.31.30.118,15,  apac,  
+TAIPEI, tai-t1a-tj5x-hrt02, 192.168.201.56, GE_1/1/11, 172.31.100.50,10, TAIPEI, tai-t1a-rt01, 192.168.253.56, GigabitEthernet3/0/0, 172.31.100.49,10,  apac,  
+SINGAPORE2, si2-t1a-svqx-hcr02, 192.168.194.48, GE_1/1/4, 192.168.37.146,15, SINGAPORE2, si2-t1a-rt01, 192.168.250.10, GigabitEthernet3/0/0, 192.168.37.145,15,  apac,  
+PARIS, par-t1a-p96x-hcr02, 192.168.201.120, TE_3/1/3, 172.26.11.130,1950, LONDON2, ln2-t1a-ldnx-hrt01, 192.168.246.186, TE_4/2/13, 172.26.11.129,1950,  europe,7.64
+MELBOURNE, mlb-t1a-1mex-hrt01, 192.168.201.84, GE_1/1/11, 172.31.163.254,10, MELBOURNE, mlb-t1a-rt01, 192.168.252.8, GigabitEthernet7/0/4, 172.31.163.253,10,  apac,  
+SYDNEY, sy-t1a-rt01, 192.168.252.1, GigabitEthernet4/0/0, 172.31.103.49,11, SYDNEY, sy-t1a-rt03, 192.168.252.3, GigabitEthernet3/0/0, 172.31.103.50,11,  apac,  
+NEW YORK, ny-t1a-n99x-hcr01, 192.168.194.136, TE_2/2/1, 172.31.251.241,15, NEW YORK, ny-t1a-n99x-hpe01, 192.168.248.78, TE_1/1/13, 172.31.251.242,15,  americas,  
+KUALALAMPUR2, kl2-t1a-kt1x-hrt01, 192.168.194.74, GE_1/1/5, 172.28.138.21,50, KUALALAMPUR, kl-t1a-kvdx-hrt01, 192.168.201.139, GE_1/1/8, 172.28.138.22,50,  apac,2.12
+CHICAGO, ch-t1a-rt03, 192.168.248.21, TenGigabitEthernet4/2, 172.31.251.230,2000, NEW YORK, ny-t1a-cr03, 192.168.248.75, TenGigabitEthernet9/2, 172.31.251.229,2000,  americas,20
+FRANKFURT, fft-t1a-fnmx-hcr02, 192.168.194.139, TE_5/1/14, 172.31.247.141,15, FRANKFURT, fft-t1a-hpe02, 192.168.254.40, TE_3/1/14, 172.31.247.142,15,  europe,  
+FRANKFURT, fft-t1a-fnmx-hcr02, 192.168.194.139, TE_3/1/4, 172.31.247.165,500, FRANKFURT2, fft2-t1a-feq-rt02, 192.168.247.9, TenGigabitEthernet8/1, 172.31.247.166,500,  europe,1
+SINGAPORE2, si2-t1a-svqx-hcr01, 192.168.194.47, GE_1/1/8, 172.25.78.205,4500, BANGKOK, bnk-t1a-rt01, 192.168.250.32, GigabitEthernet0/0/1, 172.25.78.206,4500,  apac,25
+Johannesburg, job-t1a-eopx-hrt01, 192.168.194.182, GE_5/1/4, 172.26.11.234,600, JOHANNESBURG, jo-t1a-rt01, 192.168.246.16, GigabitEthernet7/0/4, 172.26.11.233,600,  africa,1
+TAIPEI, tai-t1a-tj5x-hrt02, 192.168.201.56, STM4_1/2/1, 172.31.59.33,4100, TOKYO, tk-t1a-t0vx-hcr01, 192.168.253.174, STM4_5/2/10, 172.31.59.34,4100,  apac,36.6
+SINGAPORE, si-t1a-asinx-acn-rt02, 192.168.201.66, GigabitEthernet0/0/0, 172.31.163.126,65535, SINGAPORE, si-t1a-hcr01, 192.168.250.14, GE_2/1/8, 172.31.163.125,65535,  apac,  
+MANILA2, mla2-t1a-gx0x-hrt01, 192.168.194.93, TE_1/1/13, 172.28.129.201,100, MANILA, mla-t1a-p98x-hrt02, 192.168.201.144, TE_1/1/14, 172.28.129.202,100,  apac,1.21
+TORONTO, tor-t1a-t6ux-hrt01, 192.168.194.144, TE_5/1/14, 172.20.249.165,100, Toronto2, tor2-t1a-tttx-hrt01, 192.168.194.187, TE_5/1/13, 172.20.249.166,100,  americas,0.99
+LONDON2, ln2-t1a-ldnx-hrt02, 192.168.201.127, TE_1/2/2, 172.31.85.54,10, LONDON2, ln2-t1a-ldnx-hrt01, 192.168.246.186, TE_1/1/13, 172.31.85.53,10,  europe,  
+WARSAW, wa-t1a-wznx-hrt02, 192.168.201.179, GE_1/1/12, 172.28.141.21,65535, WARSAW, wa-t1a-wznx-hpe01, 192.168.246.49, GE_1/9/4, 172.28.141.22,65535,  europe,  
+Bali, bal-t1a-eahx-acn-rt01, 192.168.194.214, GigabitEthernet0/0/0, 172.31.207.210,65000, JAKARTA, jk-t1a-rt01, 192.168.253.73, GigabitEthernet0/0/3, 172.31.207.209,65000,  apac,18
+SEOUL, seo-t1a-aicna-acn-rt01, 192.168.201.12, GigabitEthernet0/1/0, 172.31.205.33,65535, SEOUL, seo-t1a-aicna-acn-rt02, 192.168.201.13, GigabitEthernet0/1/0, 172.31.205.34,65535,  apac,  
+KUALALAMPUR2, kl2-t1a-kt1x-hrt01, 192.168.194.74, GE_1/1/1, 172.31.238.250,100, KUALALAMPUR, kl-t1a-kvdx-hrt01, 192.168.201.139, GE_2/1/6, 172.31.238.249,100,  apac,1.78
+SINGAPORE2, si2-t1a-svqx-hcr02, 192.168.194.48, GE_1/1/6, 172.28.129.229,50000, SINGAPORE, tcx-t1a-ih4x-hrt02, 192.168.201.43, GE_2/1/31, 172.28.129.230,50000,  apac,0.7
+NEW JERSEY, nj-t1a-njyx-cr02, 192.168.194.4, TenGigabitEthernet4/2, 172.29.215.194,15, NEW JERSEY, nj-t1a-njyx-hpe02, 192.168.248.41, TE_10/1/14, 172.29.215.193,15,  americas,  
+LOS ANGELES, la-t1a-cr01, 192.168.248.28, TenGigabitEthernet4/2, 172.31.36.245,10, LOS ANGELES, la-t1a-cr02, 192.168.248.30, TenGigabitEthernet4/2, 172.31.36.246,10,  americas,  
+NEW YORK, ny-t1a-n99x-hcr01, 192.168.194.136, GE_5/1/1, 172.31.236.9,15, NEW YORK, ny-t1a-rt05, 192.168.248.6, GigabitEthernet3/1/2, 172.31.236.10,15,  americas,  
+HONGKONG, hk-t1a-rt02-PE, 192.168.189.2, GigabitEthernet2/7.199, 172.31.204.129,65000, SINGAPORE, si-t1a-svwx-hpe02, 192.168.250.15, TE_1/1/13:199, 172.31.204.130,65535,  apac,33.7
+WARSAW, wa-t1a-wznx-hrt01, 192.168.201.178, GE_1/1/12, 172.28.141.81,10, WARSAW, wa-t1a-wznx-hpe02, 192.168.246.48, GE_1/11/1, 172.28.141.82,10,  europe,  
+FRANKFURT2, fft2-t1a-feqx-hrt01, 192.168.194.195, TE_2/1/13, 172.26.11.134,2900, PARIS, par-t1a-p96x-hcr02, 192.168.201.120, TE_5/1/1, 172.26.11.133,2900,  europe,9.67
+RIYADH, ryd-t1a-rt01, 192.168.252.232, POS3/1/0, 172.29.217.214,4000, BAHRAIN, bah-t1a-hrt01, 192.168.253.180, STM1_1/11/1, 172.29.217.213,4000,  middleast,6.6
+KUALALAMPUR, kl-t1a-yuqx-acn-rt01, 192.168.194.190, GigabitEthernet0/2/1, 172.31.206.126,50000, KUALALAMPUR2, kl2-t1a-kt1x-hrt01, 192.168.194.74, GE_1/1/6, 172.31.206.125,50000,  apac,5.29
+SINGAPORE, tcx-t1a-ih4x-hrt01, 192.168.201.5, GE_1/1/29, 172.31.205.46,50400, SINGAPORE, si-t1a-hcr01, 192.168.250.14, GE_3/1/8, 172.31.205.45,50400,  apac,0.35
+SEOUL3, seo3-t1a-OO8x-hrt01, 192.168.194.89, GE_5/1/10, 172.31.205.37,65535, SEOUL, seo-t1a-aicna-acn-rt02, 192.168.201.13, GigabitEthernet0/0/0, 172.31.205.38,65535,  apac,3
+ATLANTA, atl-t1a-rt02, 192.168.248.19, GigabitEthernet3/0/1, 192.168.38.86,15, ATLANTA, atl-t1a-rt01, 192.168.248.27, GigabitEthernet3/0/1, 192.168.38.85,15,  americas,  
+MIAMI, mia-t1a-mlnx-hpe02, 192.168.194.148, GE_1/1/2, 172.31.236.77,10, MIAMI, mia-t1a-rt01, 192.168.248.22, GigabitEthernet2/1/4, 172.31.236.78,10,  americas,  
+CRESSEX, crx-t1a-hw1x-hrt02, 192.168.194.45, TE_2/2/2, 172.28.140.146,10, CRESSEX, crx-t1a-hw1x-hrt99, 192.168.201.174, TE_1/1/13, 172.28.140.145,10,  europe,  
+LONDON, ln-t1a-l78x-hcr02, 192.168.194.138, GE_5/1/1, 172.31.24.62,1000, LONDON, ln-t1a-rt04-PE, 192.168.246.6, GigabitEthernet7/0/1, 172.31.24.61,1000,  europe,  
+Johannesburg, job-t1a-eopx-hrt01, 192.168.194.182, GE_2/2/1, 172.31.246.66,50000, GABORONE, gab-t1a-7b6x-hrt01, 192.168.194.71, GE_1/3/1, 172.31.246.65,50000,  africa,13.2
+BANGKOK2, bnk2-t1a-C9Vx-hrt01, 192.168.194.102, GE_1/3/1, 172.31.238.17,4500, HONGKONG, hk-t1a-h99x-hcr01, 192.168.194.49, GE_1/1/8, 172.31.238.18,4500,  apac,52.3
+HONGKONG, hk-t1a-rt08-PE, 192.168.253.16, GigabitEthernet1/0/1, 172.31.25.122,15, HONGKONG, hk-t1a-cr02, 192.168.253.7, GigabitEthernet1/0/1, 172.31.25.121,15,  apac,  
+HONGKONG, hk-t1a-h99x-hcr01, 192.168.194.49, TE_3/1/2, 172.31.205.189,3300, TOKYO, tk-t1a-t0vx-hcr01, 192.168.253.174, TE_2/1/2, 172.31.205.190,3300,  apac,48.8
+LONDON, ln-t1a-hcr01, 192.168.246.13, GE_3/1/1, 172.31.24.237,1000, LONDON, ln-t1a-rt04-PE, 192.168.246.6, GigabitEthernet9/0/1, 172.31.24.238,1000,  europe,  
+CRESSEX, crx-t1a-hw1x-hrt99, 192.168.201.174, TE_1/2/14, 172.31.254.161,500, LONDON, ln-t1a-hcr01, 192.168.246.13, TE_1/2/2, 172.31.254.162,500,  europe,1.66
+HONGKONG, hk-t1a-h99x-hcr01, 192.168.194.49, GE_5/1/2, 172.31.253.209,15, HONGKONG, hk-t1a-rt08-PE, 192.168.253.16, GigabitEthernet3/0/4, 172.31.253.210,15,  apac,  
+NEW JERSEY, nj-t1a-njyx-hcr01, 192.168.194.212, TE_5/1/3, 172.31.24.225,100, NEW YORK, ny-t1a-cr03, 192.168.248.75, TenGigabitEthernet2/1, 172.31.24.226,100,  americas,1
+NEW YORK, ny-t1a-n99x-hcr01, 192.168.194.136, GE_5/1/2, 172.31.236.13,15, NEW YORK, ny-t1a-rt05, 192.168.248.6, GigabitEthernet8/1/1, 172.31.236.14,15,  americas,  
+LONDON2, ln2-t1a-ldnx-hrt02, 192.168.201.127, GE_1/1/2, 172.31.26.221,100, LONDON, ln-t1a-rt05, 192.168.246.15, GigabitEthernet3/0/3, 172.31.26.222,100,  europe,1
+LOS ANGELES, la-t1a-rt02, 192.168.248.18, GigabitEthernet7/0/1, 172.31.36.253,15, LOS ANGELES, la-t1a-cr02, 192.168.248.30, GigabitEthernet3/2, 172.31.36.254,15,  americas,  
+NEW YORK, ny-t1a-n99x-hcr01, 192.168.194.136, TE_5/1/13, 172.31.24.70,300, ASHBURN, ash-t1a-ae6x-hrt03, 192.168.201.187, TE_1/1/13, 172.31.24.69,300,  americas,6.55
+NEW YORK, ny-t1a-n99x-hcr01, 192.168.194.136, GE_1/1/2, 172.31.251.253,15, NEW YORK, ny-t1a-rt01, 192.168.248.2, GigabitEthernet4/1/4, 172.31.251.254,15,  americas,  
+MELBOURNE, mlb-t1a-1mex-hrt01, 192.168.201.84, GE_5/1/1, 172.31.82.10,10, MELBOURNE, mlb-t1a-rt01, 192.168.252.8, GigabitEthernet3/0/1, 172.31.82.9,10,  apac,  
+SINGAPORE, si-t1a-asinx-acn-rt02, 192.168.201.66, GigabitEthernet0/0/1, 172.31.163.118,65535, SINGAPORE, si-t1a-asinx-acn-rt01, 192.168.201.67, GigabitEthernet0/0/1, 172.31.163.117,10,  apac,  
+PARIS, par-t1a-p96x-hcr01, 192.168.194.137, TE_1/2/1, 172.31.85.17,1000, FRANKFURT, fft-t1a-fnmx-hcr02, 192.168.194.139, TE_3/1/1, 172.31.85.18,1000,  europe,  
+MANILA, mla-t1a-p98x-hrt01, 192.168.201.145, TE_2/1/14, 172.28.129.125,4000, SINGAPORE, si-t1a-hcr01, 192.168.250.14, TE_3/1/14, 172.28.129.126,4000,  apac,31.2
+Bali, bal-t1a-eahx-acn-rt01, 192.168.194.214, GigabitEthernet0/1/0, 172.31.207.197,10, Bali, bal-t1a-eahx-acn-rt02, 192.168.194.216, GigabitEthernet0/1/0, 172.31.207.198,10,  apac,  
+LONDON, ln-t1a-l78x-hcr02, 192.168.194.138, TE_5/2/4, 172.31.247.217,100, LONDON2, ln2-t1a-ldnx-hrt01, 192.168.246.186, TE_5/1/14, 172.31.247.218,100,  europe,0.41
+JOHANNESBURG, jo-t1a-ajnba-acn-rt02, 192.168.201.80, GigabitEthernet0/0/1, 172.28.128.90,65535, JOHANNESBURG, jo-t1a-ajnba-acn-rt01, 192.168.201.82, GigabitEthernet0/0/1, 172.28.128.89,65535,  africa,  
+NEW YORK, ny-t1a-n99x-hcr01, 192.168.194.136, GE_5/1/7, 172.31.197.202,65535, NEW YORK, ny-t1a-n99x-hrv01, 192.168.194.204, GE_1/1/1, 172.31.197.201,65535,  americas,  
+SINGAPORE, si-t1a-asinx-acn-rt02, 192.168.201.66, GigabitEthernet0/1/0, 172.31.163.122,65535, SINGAPORE, si-t1a-asinx-acn-rt01, 192.168.201.67, GigabitEthernet0/1/0, 172.31.163.121,65535,  apac,  
+MIAMI, mia-t1a-mlnx-hpe02, 192.168.194.148, TE_1/1/14, 172.31.197.106,1800, ATLANTA, atl-t1a-a56x-hrt01, 192.168.194.149, TE_1/1/14, 172.31.197.105,1800,  americas,12.7
+MANILA, mla-t1a-amnla-acn-rt01, 192.168.194.247, GigabitEthernet0/0/1, 172.31.163.221,65535, MANILA, mla-t1a-amnla-acn-rt02, 192.168.201.79, GigabitEthernet0/0/1, 172.31.163.222,65535,  apac,  
+VIETNAM, vi-t1a-asgna-acn-rt01, 192.168.201.111, GigabitEthernet0/1/0, 172.31.82.177,65535, VIETNAM, vi-t1a-asgna-acn-rt02, 192.168.201.112, GigabitEthernet0/1/0, 172.31.82.178,65535,  apac,  
+TOKYO, tk-t1a-t0vx-hcr02, 192.168.201.191, TE_1/2/1, 172.31.239.101,10, TOKYO, tk-t1a-t0vx-hcr01, 192.168.253.174, TE_1/1/14, 172.31.239.102,10,  apac,  
+NEW YORK, ny-t1a-rt05, 192.168.248.6, GigabitEthernet8/2/2, 172.31.27.249,15, NEW YORK, ny-t1a-cr03, 192.168.248.75, GigabitEthernet3/5, 172.31.27.250,15,  americas,  
+Haneda, han-t1a-ahndax-acn-rt02, 192.168.201.71, GigabitEthernet0/1/0, 172.31.163.82,10, Haneda, han-t1a-ahndax-acn-rt01, 192.168.201.72, GigabitEthernet0/1/0, 172.31.163.81,10,  apac,  
+Narita, nar-t1a-anrt1x-acn-rt02, 192.168.194.238, GigabitEthernet0/0/0.1411, 172.31.204.206,65535, TOKYO2, tk2-t1a-rt01, 192.168.253.88, GigabitEthernet0/0/4.1411, 172.31.204.205,65535,  apac,6
+TOKYO, tk-t1a-t0vx-hrv01, 192.168.194.202, GE_5/1/1, 172.31.206.229,65535, TOKYO, tk-t1a-t0vx-hcr02, 192.168.201.191, GE_1/1/4, 172.31.206.230,65535,  apac,  
+BANGKOK2, bnk2-t1a-C9Vx-hrt01, 192.168.194.102, GE_1/7/1, 172.31.238.21,100, BANGKOK, bnk-t1a-rt01, 192.168.250.32, GigabitEthernet0/0/2, 172.31.238.22,100,  apac,1
+SEOUL2, seo2-t1a-OO7x-hrt01, 192.168.194.76, TE_5/1/14, 172.31.206.193,100, SEOUL3, seo3-t1a-OO8x-hrt01, 192.168.194.89, TE_1/1/13, 172.31.206.194,100,  apac,0.4
+FRANKFURT, fft-t1a-fnm-hcr01, 192.168.247.12, GE_3/1/4, 172.31.121.17,15, FRANKFURT, fft-t1a-rt07-ASBR, 192.168.254.38, GigabitEthernet0/0/3, 172.31.121.18,15,  europe,  
+BUDAPEST, bud-t1a-rt01, 192.168.246.88, GigabitEthernet3/0/1, 172.31.102.93,10, BUDAPEST, bud-t1a-rt02, 192.168.246.89, GigabitEthernet3/0/1, 172.31.102.94,10,  europe,  
+TORONTO, tor-t1a-t6ux-hrt01, 192.168.194.144, GE_2/2/3, 172.28.146.125,65535, TORONTO, tor-t1a-t6ux-rt04, 192.168.201.186, GigabitEthernet0/0/0, 172.28.146.126,65535,  americas,  
+MIAMI, mia-t1a-mlnx-hpe02, 192.168.194.148, GE_1/1/12, 172.31.27.26,15, MIAMI, mia-t1a-rt05-ASBR, 192.168.248.31, GigabitEthernet1/0/0, 172.31.27.25,15,  americas,  
+HONGKONG, hk-t1a-h99x-hcr01, 192.168.194.49, TE_3/1/4, 172.31.204.26,7000, MANILA2, mla2-t1a-gx0x-hrt01, 192.168.194.93, TE_5/1/13, 172.31.204.25,10000,  apac,21.2
+MILAN, mil-t1a-rt02, 192.168.246.153, GigabitEthernet2/2/3, 172.26.11.85,65000, FRANKFURT, fft-t1a-fnm-hcr01, 192.168.247.12, GE_2/1/11, 172.26.11.86,65000,  europe,8.51
+NEW YORK, ny-t1a-rt04, 192.168.248.7, GigabitEthernet0/2, 172.31.122.34,15, NEW YORK, ny-t1a-cr03, 192.168.248.75, GigabitEthernet3/8, 172.31.122.33,15,  americas,  
+JOHANNESBURG, jo-t1a-rt01, 192.168.246.16, POS3/2/0, 172.29.213.158,5000, MAURITIUS, mau-t1a-rt01, 192.168.253.170, POS1/1/0, 172.29.213.157,5000,  africa,43
+WARSAW, wa-t1a-wznx-hrt01, 192.168.201.178, TE_2/1/13, 172.28.141.17,65535, WARSAW, wa-t1a-wznx-hrt02, 192.168.201.179, TE_2/1/13, 172.28.141.18,65535,  europe,  
+BANGKOK2, bnk2-t1a-C9Vx-hrt01, 192.168.194.102, GE_1/8/1, 172.31.206.169,65535, BANGKOK, bnk-t1a-aaafqx-acn-rt01, 192.168.194.192, GigabitEthernet0/2/1, 172.31.206.170,65535,  apac,1
+LUANDA, lua-t1a-alada-acn-rt01, 192.168.194.241, GigabitEthernet0/0/0, 172.31.210.58,64800, LUANDA, lua-t1a-7b5x-hrt01, 192.168.194.68, GE_1/9/5, 172.31.210.57,64800,  africa,  
+LONDON, ln-t1a-rt02, 192.168.182.3, GigabitEthernet0/1, 172.31.120.14,1000, LONDON, ln-t1a-hcr01, 192.168.246.13, GE_2/1/5, 172.31.120.13,1000,  europe,  
+HONGKONG, hk-t1a-h99x-hcr01, 192.168.194.49, GE_5/1/1, 172.31.253.205,15, HONGKONG, hk-t1a-rt08-PE, 192.168.253.16, GigabitEthernet3/0/3, 172.31.253.206,15,  apac,  
+JAKARTA2, jk2-t1a-IJNX-rt01, 192.168.194.162, POS1/1/0, 172.31.206.69,4000, SINGAPORE, si-t1a-hcr01, 192.168.250.14, STM1_5/2/1, 172.31.206.70,4000,  apac,12.7
+JOHANNESBURG, jo-t1a-rt01, 192.168.246.16, POS3/2/1, 172.23.182.142,65535, DAR-E-SALAAM, dar-t1a-hrt01, 192.168.246.21, STM1_1/12/1, 172.23.182.141,65535,  africa,  
+LOS ANGELES, la-t1a-rt02, 192.168.248.18, GigabitEthernet3/0/1, 172.25.78.106,15, LOS ANGELES, la-t1a-cr01, 192.168.248.28, GigabitEthernet3/10, 172.25.78.105,15,  americas,  
+PARIS2, par2-t1a-pvux-hrt02, 192.168.194.239, GE_5/1/1, 172.26.10.105,10, PARIS2, par2-t1a-rt01, 192.168.246.67, GigabitEthernet3/1/1, 172.26.10.106,10,  europe,  
+MADRID, ma-t1a-wv6x-hrt01, 192.168.194.22, TE_1/1/14, 172.31.85.221,10000, LONDON, ln-t1a-hcr01, 192.168.246.13, TE_1/2/3, 172.31.85.222,10000,  europe,23.2
+HONGKONG, hk-t1a-rt02-PE, 192.168.189.2, GigabitEthernet4/0/0, 172.31.25.254,15, HONGKONG, hk-t1a-cr02, 192.168.253.7, GigabitEthernet1/0/3, 172.31.25.253,15,  apac,  
+KAMPALA, kam-t1a-hrt01, 192.168.246.17, GE_1/1/3, 172.31.204.21,50000, NAIROBI2, nai2-t1a-hrt01, 192.168.246.20, GE_1/8/4, 172.31.204.22,50000,  africa,7.88
+HONGKONG2, hk2-t1a-kthx-hrt02, 192.168.201.73, TE_3/1/14, 172.31.82.201,4500, TOKYO3, emi-t1a-cr01, 192.168.253.171, TenGigabitEthernet9/1, 172.31.82.202,4500,  apac,60
+Israel, isl-t1a-atlva-acn-rt01, 192.168.201.31, GigabitEthernet0/0/1, 172.31.185.57,10, Israel, isl-t1a-atlva-acn-rt02, 192.168.201.33, GigabitEthernet0/0/1, 172.31.185.58,10,  apac,  
+NEW JERSEY, nj-t1a-njyx-hcr01, 192.168.194.212, TE_5/1/2, 172.20.248.105,10, NEW JERSEY, nj-t1a-njyx-cr02, 192.168.194.4, TenGigabitEthernet8/1, 172.20.248.106,10,  americas,  
+DALLAS, da-t1a-rt01, 192.168.187.33, GigabitEthernet2/2/3, 172.23.182.225,100, DALLAS, da-t1a-d0vx-hpe01, 192.168.247.23, GE_2/2/14, 172.23.182.226,100,  americas,  
+ATLANTA, atl-t1a-a56x-hrt01, 192.168.194.149, GE_1/1/2, 172.31.236.169,15, ATLANTA, atl-t1a-rt01, 192.168.248.27, GigabitEthernet2/2/3, 172.31.236.170,15,  americas,  
+SANTA CLARA, sc-t1a-cr03, 192.168.251.10, GigabitEthernet3/13, 172.23.250.126,15, SANTA CLARA, sc-t1a-s99x-hpe02, 192.168.251.11, GE_1/1/11, 172.23.250.125,15,  americas,  
+PARIS, par-t1a-p96x-hcr01, 192.168.194.137, GE_5/2/1, 192.168.39.25,15, PARIS, par-t1a-rt03, 192.168.246.69, GigabitEthernet2/0/0, 192.168.39.26,15,  europe,  
+Narita, nar-t1a-anrt1x-acn-rt01, 192.168.194.237, GigabitEthernet0/0/1, 172.26.10.245,65535, Narita, nar-t1a-anrt1x-acn-rt02, 192.168.194.238, GigabitEthernet0/0/1, 172.26.10.246,65535,  apac,  
+NEW JERSEY, nj-t1a-njyx-cr02, 192.168.194.4, TenGigabitEthernet9/2, 172.28.147.94,10, NEW JERSEY, nj-t1a-njyx-hcr02, 192.168.201.196, TE_1/2/3, 172.28.147.93,10,  americas,  
+MANILA, mla-t1a-p98x-hrt02, 192.168.201.144, TE_2/1/13, 172.28.129.122,10, MANILA, mla-t1a-p98x-hrt01, 192.168.201.145, TE_2/1/13, 172.28.129.121,10,  apac,  
+HONGKONG, hk-t1a-cr02, 192.168.253.7, GigabitEthernet1/0/0, 172.31.25.93,15, HONGKONG, hk-t1a-rt09-ASBR, 192.168.253.8, GigabitEthernet1/0/0, 172.31.25.94,15,  apac,  
+ZURICH, zu-t1a-rt01, 192.168.246.40, GigabitEthernet3/0/0, 192.168.39.81,10, ZURICH, zu-t1a-rt02, 192.168.246.41, GigabitEthernet3/0/0, 192.168.39.82,10,  europe,  
+Vietnam2, vi2-t1a-yqlx-hrt01, 192.168.194.196, GE_2/1/15, 172.31.206.177,4600, HONGKONG, hk-t1a-h99x-hcr01, 192.168.194.49, GE_5/1/3, 172.31.206.178,4600,  apac,38.6
+SYDNEY, sy-t1a-m3hx-hrt01, 192.168.194.43, TE_4/1/14, 172.28.138.17,10000, MELBOURNE, mlb-t1a-1mex-hrt01, 192.168.201.84, TE_1/1/14, 172.28.138.18,10000,  apac,11.1
+COPENHAGEN, cop-t1a-acphb-hrt01, 192.168.201.99, TE_2/1/13, 172.31.84.29,4000, FRANKFURT, fft-t1a-fnm-hcr01, 192.168.247.12, TE_2/1/13, 172.31.84.30,4000,  europe,12.7
+LUANDA, lua-t1a-alada-acn-rt02, 192.168.194.242, GigabitEthernet0/0/0, 172.31.210.62,64800, LUANDA, lua-t1a-7b5x-hrt01, 192.168.194.68, GE_1/9/4, 172.31.210.61,64800,  africa,  
+GENEVA, gen-t1a-gvsx-hrt01, 192.168.194.161, GE_1/1/2, 172.31.36.53,400, ZURICH, zu-t1a-rt02, 192.168.246.41, GigabitEthernet3/0/3, 172.31.36.54,400,  europe,4
+TORONTO, tor-t1a-t6ux-hrt01, 192.168.194.144, GE_3/1/3, 172.28.146.145,65535, TORONTO, tor-t1a-t6ux-rt04, 192.168.201.186, GigabitEthernet0/1/1, 172.28.146.146,65535,  americas,  
+MIAMI, mia-t1a-mlnx-hpe02, 192.168.194.148, GE_5/1/1, 172.31.27.30,15, MIAMI, mia-t1a-rt05-ASBR, 192.168.248.31, GigabitEthernet1/0/1, 172.31.27.29,15,  americas,  
+MIAMI, mia-t1a-mlnx-hpe02, 192.168.194.148, TE_5/1/13, 172.31.236.89,10, MIAMI, mia-t1a-rt01, 192.168.248.22, TenGigabitEthernet4/2, 172.31.236.90,10,  americas,  
+TOKYO, tk-t1a-t0vx-hcr02, 192.168.201.191, GE_1/1/1, 172.28.139.74,10, TOKYO, tk-t1a-t0vx-hcr01, 192.168.253.174, GE_1/1/3, 172.28.139.73,10,  apac,  
+MANILA, mla-t1a-p98x-hrt01, 192.168.201.145, GE_1/1/12, 172.31.163.249,65535, MANILA, mla-t1a-amnla-acn-rt02, 192.168.201.79, GigabitEthernet0/0/0, 172.31.163.250,65535,  apac,  
+RIYADH, ryd-t1a-rt01, 192.168.252.232, GigabitEthernet4/0/2, 172.25.78.198,5000, DOHA, doh-t1a-rt01, 192.168.252.240, GigabitEthernet0/0/2, 172.25.78.197,5000,  middleast,13
+NEW YORK, ny-t1a-n99x-hcr01, 192.168.194.136, GE_1/1/4, 172.20.248.154,30000, Brazil, brz-t1a-xxhx-hrt01, 192.168.201.26, GE_1/1/3, 172.20.248.153,30000,  americas,108
+MANILA, mla-t1a-p98x-hrt02, 192.168.201.144, GE_1/1/7, 172.28.129.149,10, MANILA, mla-t1a-p98x-rt03, 192.168.201.153, GigabitEthernet1/0/0, 172.28.129.150,10,  apac,  
+NEW JERSEY, nj-t1a-njyx-hcr01, 192.168.194.212, TE_1/1/14, 172.31.197.237,15, NEW JERSEY, nj-t1a-njyx-hpe01, 192.168.248.40, TE_1/1/13, 172.31.197.238,15,  americas,  
+LOS ANGELES, la-t1a-rt02, 192.168.248.18, GigabitEthernet7/0/3, 172.25.78.110,15, LOS ANGELES, la-t1a-cr02, 192.168.248.30, GigabitEthernet3/9, 172.25.78.109,15,  americas,  
+PARIS, par-t1a-pv0x-hpe01, 192.168.194.34, TE_2/1/4, 172.31.84.230,15, PARIS, par-t1a-p96x-hcr02, 192.168.201.120, TE_3/1/1, 172.31.84.229,15,  europe,  
+CAPE TOWN, cap-t1a-eagx-hrt01, 192.168.194.178, GE_5/1/2, 172.31.237.249,10, CAPE TOWN, cap-t1a-eagx-hrt02, 192.168.194.179, GE_5/1/2, 172.31.237.250,10,  africa,  
+SINGAPORE, si-t1a-svwx-hcr02, 192.168.194.131, GE_1/1/2, 172.31.25.29,10, SINGAPORE, si-t1a-rt01, 192.168.250.2, GigabitEthernet4/1/1, 172.31.25.30,10,  apac,  
+SYDNEY, sy-t1a-1mhx-hrt02, 192.168.201.54, GE_5/1/1, 172.31.248.41,10, SYDNEY, sy-t1a-rt03, 192.168.252.3, GigabitEthernet4/0/3, 172.31.248.42,10,  apac,  
+FRANKFURT, fft-t1a-fnm-hcr01, 192.168.247.12, GE_3/1/7, 172.31.194.86,15, FRANKFURT, fft-t1a-rt07-ASBR, 192.168.254.38, GigabitEthernet0/0/1, 172.31.194.85,15,  europe,  
+NEW JERSEY, nj-t1a-njyx-hcr01, 192.168.194.212, TE_1/2/1, 172.31.24.189,400, ASHBURN, ash-t1a-ae6x-hrt01, 92.168.194.135, TE_1/1/14, 172.31.24.190,400,  americas,5.32
+SYDNEY2, sy2-t1a-0ppx-hrt01, 192.168.194.46, TE_5/1/14, 172.28.139.50,100, SYDNEY, sy-t1a-1mhx-hrt02, 192.168.201.54, TE_3/2/1, 172.28.139.49,100,  apac,1.52
+HONGKONG, hk-t1a-h99x-hcr01, 192.168.194.49, STM4_5/2/10, 172.31.59.30,4000, TAIPEI, tai-t1a-rt01, 192.168.253.56, POS2/0/0, 172.31.59.29,4000,  apac,20
+LOS ANGELES, la-t1a-27gx-hpe01, 192.168.194.150, GE_1/1/2, 172.31.236.157,50, LOS ANGELES, la-t1a-cr01, 192.168.248.28, GigabitEthernet3/4, 172.31.236.158,50,  americas,  
+ZURICH, zu-t1a-rt01, 192.168.246.40, GigabitEthernet2/1/1, 172.28.131.117,3500, FRANKFURT, fft-t1a-fnm-hcr01, 192.168.247.12, GE_2/1/1, 172.28.131.118,3500,  europe,33
+MOROCCO, mor-t1a-52wx-hrt01, 192.168.201.61, GE_2/1/23, 172.31.185.245,10, MOROCCO, mor-t1a-52wx-hrt02, 192.168.201.74, GE_2/1/23, 172.31.185.246,10,  europe,  
+FRANKFURT, fft-t1a-fnmx-hcr02, 192.168.194.139, GE_1/1/6, 172.31.26.46,5400, STOCKHOLM, sto-t1a-stkx-hrt02, 192.168.201.88, GE_1/1/13, 172.31.26.45,5400,  europe,28.8
+LONDON, ln-t1a-l78x-hcr02, 192.168.194.138, GE_5/1/2, 172.29.213.233,1000, LONDON, ln-t1a-rt04-PE, 192.168.246.6, GigabitEthernet7/0/0, 172.29.213.234,1000,  europe,  
+LUANDA, lua-t1a-alada-acn-rt01, 192.168.194.241, GigabitEthernet0/0/1, 172.26.11.249,10, LUANDA, lua-t1a-alada-acn-rt02, 192.168.194.242, GigabitEthernet0/0/1, 172.26.11.250,10,  africa,  
+SINGAPORE2, si2-t1a-svqx-hcr01, 192.168.194.47, TE_2/2/4, 172.31.205.202,15, SINGAPORE2, si2-t1a-svqx-hpe01, 192.168.201.36, TE_1/1/13, 172.31.205.201,15,  apac,  
+FRANKFURT2, fft2-t1a-feqx-hrt01, 192.168.194.195, GE_5/1/2, 172.31.207.149,65535, FRANKFURT2, fft2-t1a-feq-rt02, 192.168.247.9, GigabitEthernet7/2, 172.31.207.150,65535,  europe,  
+PARIS, par-t1a-p96x-hcr01, 192.168.194.137, TE_1/1/14, 172.29.213.81,1000, FRANKFURT, fft-t1a-fnmx-hcr02, 192.168.194.139, TE_1/1/14, 172.29.213.82,1000,  europe,  
